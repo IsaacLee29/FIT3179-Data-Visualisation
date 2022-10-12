@@ -1,0 +1,1044 @@
+Country_name,Regional_indicator,Ladder_score,Factors,Factor_score
+Finland,Western Europe,7.842,Explained_by:_Log_GDP_per_capita,1.446
+Denmark,Western Europe,7.62,Explained_by:_Log_GDP_per_capita,1.502
+Switzerland,Western Europe,7.571,Explained_by:_Log_GDP_per_capita,1.566
+Iceland,Western Europe,7.554,Explained_by:_Log_GDP_per_capita,1.482
+Netherlands,Western Europe,7.464,Explained_by:_Log_GDP_per_capita,1.501
+Norway,Western Europe,7.392,Explained_by:_Log_GDP_per_capita,1.543
+Sweden,Western Europe,7.363,Explained_by:_Log_GDP_per_capita,1.478
+Luxembourg,Western Europe,7.324,Explained_by:_Log_GDP_per_capita,1.751
+New Zealand,North America and ANZ,7.277,Explained_by:_Log_GDP_per_capita,1.4
+Austria,Western Europe,7.268,Explained_by:_Log_GDP_per_capita,1.492
+Australia,North America and ANZ,7.183,Explained_by:_Log_GDP_per_capita,1.453
+Israel,Middle East and North Africa,7.157,Explained_by:_Log_GDP_per_capita,1.376
+Germany,Western Europe,7.155,Explained_by:_Log_GDP_per_capita,1.48
+Canada,North America and ANZ,7.103,Explained_by:_Log_GDP_per_capita,1.447
+Ireland,Western Europe,7.085,Explained_by:_Log_GDP_per_capita,1.644
+Costa Rica,Latin America and Caribbean,7.069,Explained_by:_Log_GDP_per_capita,1.134
+United Kingdom,Western Europe,7.064,Explained_by:_Log_GDP_per_capita,1.423
+Czechia,Central and Eastern Europe,6.965,Explained_by:_Log_GDP_per_capita,1.37
+United States of America,North America and ANZ,6.951,Explained_by:_Log_GDP_per_capita,1.533
+Belgium,Western Europe,6.834,Explained_by:_Log_GDP_per_capita,1.463
+France,Western Europe,6.69,Explained_by:_Log_GDP_per_capita,1.421
+Bahrain,Middle East and North Africa,6.647,Explained_by:_Log_GDP_per_capita,1.409
+Malta,Western Europe,6.602,Explained_by:_Log_GDP_per_capita,1.411
+Taiwan,East Asia,6.584,Explained_by:_Log_GDP_per_capita,1.48
+United Arab Emirates,Middle East and North Africa,6.561,Explained_by:_Log_GDP_per_capita,1.555
+Saudi Arabia,Middle East and North Africa,6.494,Explained_by:_Log_GDP_per_capita,1.435
+Spain,Western Europe,6.491,Explained_by:_Log_GDP_per_capita,1.375
+Italy,Western Europe,6.483,Explained_by:_Log_GDP_per_capita,1.393
+Slovenia,Central and Eastern Europe,6.461,Explained_by:_Log_GDP_per_capita,1.36
+Guatemala,Latin America and Caribbean,6.435,Explained_by:_Log_GDP_per_capita,0.845
+Uruguay,Latin America and Caribbean,6.431,Explained_by:_Log_GDP_per_capita,1.164
+Singapore,Southeast Asia,6.377,Explained_by:_Log_GDP_per_capita,1.695
+Kosovo,Central and Eastern Europe,6.372,Explained_by:_Log_GDP_per_capita,0.937
+Slovakia,Central and Eastern Europe,6.331,Explained_by:_Log_GDP_per_capita,1.304
+Brazil,Latin America and Caribbean,6.33,Explained_by:_Log_GDP_per_capita,1.028
+Mexico,Latin America and Caribbean,6.317,Explained_by:_Log_GDP_per_capita,1.126
+Jamaica,Latin America and Caribbean,6.309,Explained_by:_Log_GDP_per_capita,0.891
+Lithuania,Central and Eastern Europe,6.255,Explained_by:_Log_GDP_per_capita,1.35
+Cyprus,Western Europe,6.223,Explained_by:_Log_GDP_per_capita,1.377
+Estonia,Central and Eastern Europe,6.189,Explained_by:_Log_GDP_per_capita,1.344
+Panama,Latin America and Caribbean,6.18,Explained_by:_Log_GDP_per_capita,1.298
+Uzbekistan,Commonwealth of Independent States,6.179,Explained_by:_Log_GDP_per_capita,0.769
+Chile,Latin America and Caribbean,6.172,Explained_by:_Log_GDP_per_capita,1.2
+Poland,Central and Eastern Europe,6.166,Explained_by:_Log_GDP_per_capita,1.309
+Kazakhstan,Commonwealth of Independent States,6.152,Explained_by:_Log_GDP_per_capita,1.23
+Romania,Central and Eastern Europe,6.14,Explained_by:_Log_GDP_per_capita,1.275
+Kuwait,Middle East and North Africa,6.106,Explained_by:_Log_GDP_per_capita,1.461
+Serbia,Central and Eastern Europe,6.078,Explained_by:_Log_GDP_per_capita,1.101
+El Salvador,Latin America and Caribbean,6.061,Explained_by:_Log_GDP_per_capita,0.845
+Mauritius,Sub-Saharan Africa,6.049,Explained_by:_Log_GDP_per_capita,1.178
+Latvia,Central and Eastern Europe,6.032,Explained_by:_Log_GDP_per_capita,1.285
+Colombia,Latin America and Caribbean,6.012,Explained_by:_Log_GDP_per_capita,1.021
+Hungary,Central and Eastern Europe,5.992,Explained_by:_Log_GDP_per_capita,1.301
+Thailand,Southeast Asia,5.985,Explained_by:_Log_GDP_per_capita,1.107
+Nicaragua,Latin America and Caribbean,5.972,Explained_by:_Log_GDP_per_capita,0.693
+Japan,East Asia,5.94,Explained_by:_Log_GDP_per_capita,1.389
+Argentina,Latin America and Caribbean,5.929,Explained_by:_Log_GDP_per_capita,1.162
+Portugal,Western Europe,5.929,Explained_by:_Log_GDP_per_capita,1.323
+Honduras,Latin America and Caribbean,5.919,Explained_by:_Log_GDP_per_capita,0.703
+Croatia,Central and Eastern Europe,5.882,Explained_by:_Log_GDP_per_capita,1.251
+Philippines,Southeast Asia,5.88,Explained_by:_Log_GDP_per_capita,0.853
+South Korea,East Asia,5.845,Explained_by:_Log_GDP_per_capita,1.403
+Peru,Latin America and Caribbean,5.84,Explained_by:_Log_GDP_per_capita,0.986
+Bosnia and Herz.,Central and Eastern Europe,5.813,Explained_by:_Log_GDP_per_capita,1.032
+Moldova,Commonwealth of Independent States,5.766,Explained_by:_Log_GDP_per_capita,0.985
+Ecuador,Latin America and Caribbean,5.764,Explained_by:_Log_GDP_per_capita,0.935
+Kyrgyzstan,Commonwealth of Independent States,5.744,Explained_by:_Log_GDP_per_capita,0.665
+Greece,Western Europe,5.723,Explained_by:_Log_GDP_per_capita,1.273
+Bolivia,Latin America and Caribbean,5.716,Explained_by:_Log_GDP_per_capita,0.842
+Mongolia,East Asia,5.677,Explained_by:_Log_GDP_per_capita,0.966
+Paraguay,Latin America and Caribbean,5.653,Explained_by:_Log_GDP_per_capita,0.983
+Montenegro,Central and Eastern Europe,5.581,Explained_by:_Log_GDP_per_capita,1.155
+Dominican Rep.,Latin America and Caribbean,5.545,Explained_by:_Log_GDP_per_capita,1.106
+N. Cyprus,Western Europe,5.536,Explained_by:_Log_GDP_per_capita,1.377
+Belarus,Commonwealth of Independent States,5.534,Explained_by:_Log_GDP_per_capita,1.124
+Russia,Commonwealth of Independent States,5.477,Explained_by:_Log_GDP_per_capita,1.241
+Hong Kong S.A.R. of China,East Asia,5.477,Explained_by:_Log_GDP_per_capita,1.525
+Tajikistan,Commonwealth of Independent States,5.466,Explained_by:_Log_GDP_per_capita,0.508
+Vietnam,Southeast Asia,5.411,Explained_by:_Log_GDP_per_capita,0.817
+Libya,Middle East and North Africa,5.41,Explained_by:_Log_GDP_per_capita,1.044
+Malaysia,Southeast Asia,5.384,Explained_by:_Log_GDP_per_capita,1.259
+Indonesia,Southeast Asia,5.345,Explained_by:_Log_GDP_per_capita,0.954
+Congo,Sub-Saharan Africa,5.342,Explained_by:_Log_GDP_per_capita,0.518
+China,East Asia,5.339,Explained_by:_Log_GDP_per_capita,1.061
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Explained_by:_Log_GDP_per_capita,0.669
+Armenia,Commonwealth of Independent States,5.283,Explained_by:_Log_GDP_per_capita,0.996
+Nepal,South Asia,5.269,Explained_by:_Log_GDP_per_capita,0.519
+Bulgaria,Central and Eastern Europe,5.266,Explained_by:_Log_GDP_per_capita,1.181
+Maldives,South Asia,5.198,Explained_by:_Log_GDP_per_capita,1.115
+Azerbaijan,Commonwealth of Independent States,5.171,Explained_by:_Log_GDP_per_capita,1.025
+Cameroon,Sub-Saharan Africa,5.142,Explained_by:_Log_GDP_per_capita,0.543
+Senegal,Sub-Saharan Africa,5.132,Explained_by:_Log_GDP_per_capita,0.518
+Albania,Central and Eastern Europe,5.117,Explained_by:_Log_GDP_per_capita,1.008
+North Macedonia,Central and Eastern Europe,5.101,Explained_by:_Log_GDP_per_capita,1.068
+Ghana,Sub-Saharan Africa,5.088,Explained_by:_Log_GDP_per_capita,0.68
+Niger,Sub-Saharan Africa,5.074,Explained_by:_Log_GDP_per_capita,0.162
+Turkmenistan,Commonwealth of Independent States,5.066,Explained_by:_Log_GDP_per_capita,1.046
+Gambia,Sub-Saharan Africa,5.051,Explained_by:_Log_GDP_per_capita,0.367
+Benin,Sub-Saharan Africa,5.045,Explained_by:_Log_GDP_per_capita,0.507
+Laos,Southeast Asia,5.03,Explained_by:_Log_GDP_per_capita,0.808
+Bangladesh,South Asia,5.025,Explained_by:_Log_GDP_per_capita,0.635
+Guinea,Sub-Saharan Africa,4.984,Explained_by:_Log_GDP_per_capita,0.42
+South Africa,Sub-Saharan Africa,4.956,Explained_by:_Log_GDP_per_capita,0.967
+Turkey,Middle East and North Africa,4.948,Explained_by:_Log_GDP_per_capita,1.26
+Pakistan,South Asia,4.934,Explained_by:_Log_GDP_per_capita,0.637
+Morocco,Middle East and North Africa,4.918,Explained_by:_Log_GDP_per_capita,0.792
+Venezuela,Latin America and Caribbean,4.892,Explained_by:_Log_GDP_per_capita,0.852
+Georgia,Commonwealth of Independent States,4.891,Explained_by:_Log_GDP_per_capita,1.03
+Algeria,Middle East and North Africa,4.887,Explained_by:_Log_GDP_per_capita,0.946
+Ukraine,Commonwealth of Independent States,4.875,Explained_by:_Log_GDP_per_capita,0.979
+Iraq,Middle East and North Africa,4.854,Explained_by:_Log_GDP_per_capita,0.91
+Gabon,Sub-Saharan Africa,4.852,Explained_by:_Log_GDP_per_capita,1.037
+Burkina Faso,Sub-Saharan Africa,4.834,Explained_by:_Log_GDP_per_capita,0.364
+Cambodia,Southeast Asia,4.83,Explained_by:_Log_GDP_per_capita,0.603
+Mozambique,Sub-Saharan Africa,4.794,Explained_by:_Log_GDP_per_capita,0.183
+Nigeria,Sub-Saharan Africa,4.759,Explained_by:_Log_GDP_per_capita,0.663
+Mali,Sub-Saharan Africa,4.723,Explained_by:_Log_GDP_per_capita,0.387
+Iran,Middle East and North Africa,4.721,Explained_by:_Log_GDP_per_capita,1.03
+Uganda,Sub-Saharan Africa,4.636,Explained_by:_Log_GDP_per_capita,0.364
+Liberia,Sub-Saharan Africa,4.625,Explained_by:_Log_GDP_per_capita,0.228
+Kenya,Sub-Saharan Africa,4.607,Explained_by:_Log_GDP_per_capita,0.603
+Tunisia,Middle East and North Africa,4.596,Explained_by:_Log_GDP_per_capita,0.919
+Lebanon,Middle East and North Africa,4.584,Explained_by:_Log_GDP_per_capita,1.045
+Namibia,Sub-Saharan Africa,4.574,Explained_by:_Log_GDP_per_capita,0.882
+Palestinian Territories,Middle East and North Africa,4.517,Explained_by:_Log_GDP_per_capita,0.646
+Myanmar,Southeast Asia,4.426,Explained_by:_Log_GDP_per_capita,0.666
+Jordan,Middle East and North Africa,4.395,Explained_by:_Log_GDP_per_capita,0.89
+Chad,Sub-Saharan Africa,4.355,Explained_by:_Log_GDP_per_capita,0.255
+Sri Lanka,South Asia,4.325,Explained_by:_Log_GDP_per_capita,0.99
+Swaziland,Sub-Saharan Africa,4.308,Explained_by:_Log_GDP_per_capita,0.849
+Comoros,Sub-Saharan Africa,4.289,Explained_by:_Log_GDP_per_capita,0.488
+Egypt,Middle East and North Africa,4.283,Explained_by:_Log_GDP_per_capita,0.954
+Ethiopia,Sub-Saharan Africa,4.275,Explained_by:_Log_GDP_per_capita,0.37
+Mauritania,Sub-Saharan Africa,4.227,Explained_by:_Log_GDP_per_capita,0.666
+Madagascar,Sub-Saharan Africa,4.208,Explained_by:_Log_GDP_per_capita,0.266
+Togo,Sub-Saharan Africa,4.107,Explained_by:_Log_GDP_per_capita,0.254
+Zambia,Sub-Saharan Africa,4.073,Explained_by:_Log_GDP_per_capita,0.528
+Sierra Leone,Sub-Saharan Africa,3.849,Explained_by:_Log_GDP_per_capita,0.279
+India,South Asia,3.819,Explained_by:_Log_GDP_per_capita,0.741
+Burundi,Sub-Saharan Africa,3.775,Explained_by:_Log_GDP_per_capita,0.0
+Yemen,Middle East and North Africa,3.658,Explained_by:_Log_GDP_per_capita,0.329
+Tanzania,Sub-Saharan Africa,3.623,Explained_by:_Log_GDP_per_capita,0.433
+Haiti,Latin America and Caribbean,3.615,Explained_by:_Log_GDP_per_capita,0.294
+Malawi,Sub-Saharan Africa,3.6,Explained_by:_Log_GDP_per_capita,0.113
+Lesotho,Sub-Saharan Africa,3.512,Explained_by:_Log_GDP_per_capita,0.451
+Botswana,Sub-Saharan Africa,3.467,Explained_by:_Log_GDP_per_capita,1.099
+Rwanda,Sub-Saharan Africa,3.415,Explained_by:_Log_GDP_per_capita,0.364
+Zimbabwe,Sub-Saharan Africa,3.145,Explained_by:_Log_GDP_per_capita,0.457
+Afghanistan,South Asia,2.523,Explained_by:_Log_GDP_per_capita,0.37
+Finland,Western Europe,7.842,Explained_by:_Social_support,1.106
+Denmark,Western Europe,7.62,Explained_by:_Social_support,1.108
+Switzerland,Western Europe,7.571,Explained_by:_Social_support,1.079
+Iceland,Western Europe,7.554,Explained_by:_Social_support,1.172
+Netherlands,Western Europe,7.464,Explained_by:_Social_support,1.079
+Norway,Western Europe,7.392,Explained_by:_Social_support,1.108
+Sweden,Western Europe,7.363,Explained_by:_Social_support,1.062
+Luxembourg,Western Europe,7.324,Explained_by:_Social_support,1.003
+New Zealand,North America and ANZ,7.277,Explained_by:_Social_support,1.094
+Austria,Western Europe,7.268,Explained_by:_Social_support,1.062
+Australia,North America and ANZ,7.183,Explained_by:_Social_support,1.076
+Israel,Middle East and North Africa,7.157,Explained_by:_Social_support,1.074
+Germany,Western Europe,7.155,Explained_by:_Social_support,0.993
+Canada,North America and ANZ,7.103,Explained_by:_Social_support,1.044
+Ireland,Western Europe,7.085,Explained_by:_Social_support,1.092
+Costa Rica,Latin America and Caribbean,7.069,Explained_by:_Social_support,0.966
+United Kingdom,Western Europe,7.064,Explained_by:_Social_support,1.062
+Czechia,Central and Eastern Europe,6.965,Explained_by:_Social_support,1.09
+United States of America,North America and ANZ,6.951,Explained_by:_Social_support,1.03
+Belgium,Western Europe,6.834,Explained_by:_Social_support,0.998
+France,Western Europe,6.69,Explained_by:_Social_support,1.081
+Bahrain,Middle East and North Africa,6.647,Explained_by:_Social_support,0.899
+Malta,Western Europe,6.602,Explained_by:_Social_support,1.055
+Taiwan,East Asia,6.584,Explained_by:_Social_support,0.982
+United Arab Emirates,Middle East and North Africa,6.561,Explained_by:_Social_support,0.86
+Saudi Arabia,Middle East and North Africa,6.494,Explained_by:_Social_support,0.964
+Spain,Western Europe,6.491,Explained_by:_Social_support,1.057
+Italy,Western Europe,6.483,Explained_by:_Social_support,0.94
+Slovenia,Central and Eastern Europe,6.461,Explained_by:_Social_support,1.093
+Guatemala,Latin America and Caribbean,6.435,Explained_by:_Social_support,0.79
+Uruguay,Latin America and Caribbean,6.431,Explained_by:_Social_support,1.042
+Singapore,Southeast Asia,6.377,Explained_by:_Social_support,1.019
+Kosovo,Central and Eastern Europe,6.372,Explained_by:_Social_support,0.807
+Slovakia,Central and Eastern Europe,6.331,Explained_by:_Social_support,1.066
+Brazil,Latin America and Caribbean,6.33,Explained_by:_Social_support,0.944
+Mexico,Latin America and Caribbean,6.317,Explained_by:_Social_support,0.83
+Jamaica,Latin America and Caribbean,6.309,Explained_by:_Social_support,0.932
+Lithuania,Central and Eastern Europe,6.255,Explained_by:_Social_support,1.065
+Cyprus,Western Europe,6.223,Explained_by:_Social_support,0.765
+Estonia,Central and Eastern Europe,6.189,Explained_by:_Social_support,1.079
+Panama,Latin America and Caribbean,6.18,Explained_by:_Social_support,0.976
+Uzbekistan,Commonwealth of Independent States,6.179,Explained_by:_Social_support,1.027
+Chile,Latin America and Caribbean,6.172,Explained_by:_Social_support,0.946
+Poland,Central and Eastern Europe,6.166,Explained_by:_Social_support,0.982
+Kazakhstan,Commonwealth of Independent States,6.152,Explained_by:_Social_support,1.103
+Romania,Central and Eastern Europe,6.14,Explained_by:_Social_support,0.832
+Kuwait,Middle East and North Africa,6.106,Explained_by:_Social_support,0.857
+Serbia,Central and Eastern Europe,6.078,Explained_by:_Social_support,0.924
+El Salvador,Latin America and Caribbean,6.061,Explained_by:_Social_support,0.675
+Mauritius,Sub-Saharan Africa,6.049,Explained_by:_Social_support,0.996
+Latvia,Central and Eastern Europe,6.032,Explained_by:_Social_support,1.047
+Colombia,Latin America and Caribbean,6.012,Explained_by:_Social_support,0.866
+Hungary,Central and Eastern Europe,5.992,Explained_by:_Social_support,1.083
+Thailand,Southeast Asia,5.985,Explained_by:_Social_support,0.957
+Nicaragua,Latin America and Caribbean,5.972,Explained_by:_Social_support,0.904
+Japan,East Asia,5.94,Explained_by:_Social_support,0.949
+Argentina,Latin America and Caribbean,5.929,Explained_by:_Social_support,0.98
+Portugal,Western Europe,5.929,Explained_by:_Social_support,0.939
+Honduras,Latin America and Caribbean,5.919,Explained_by:_Social_support,0.787
+Croatia,Central and Eastern Europe,5.882,Explained_by:_Social_support,1.039
+Philippines,Southeast Asia,5.88,Explained_by:_Social_support,0.828
+South Korea,East Asia,5.845,Explained_by:_Social_support,0.758
+Peru,Latin America and Caribbean,5.84,Explained_by:_Social_support,0.833
+Bosnia and Herz.,Central and Eastern Europe,5.813,Explained_by:_Social_support,0.919
+Moldova,Commonwealth of Independent States,5.766,Explained_by:_Social_support,0.888
+Ecuador,Latin America and Caribbean,5.764,Explained_by:_Social_support,0.806
+Kyrgyzstan,Commonwealth of Independent States,5.744,Explained_by:_Social_support,0.971
+Greece,Western Europe,5.723,Explained_by:_Social_support,0.811
+Bolivia,Latin America and Caribbean,5.716,Explained_by:_Social_support,0.782
+Mongolia,East Asia,5.677,Explained_by:_Social_support,1.065
+Paraguay,Latin America and Caribbean,5.653,Explained_by:_Social_support,0.97
+Montenegro,Central and Eastern Europe,5.581,Explained_by:_Social_support,0.891
+Dominican Rep.,Latin America and Caribbean,5.545,Explained_by:_Social_support,0.879
+N. Cyprus,Western Europe,5.536,Explained_by:_Social_support,0.806
+Belarus,Commonwealth of Independent States,5.534,Explained_by:_Social_support,1.007
+Russia,Commonwealth of Independent States,5.477,Explained_by:_Social_support,0.992
+Hong Kong S.A.R. of China,East Asia,5.477,Explained_by:_Social_support,0.841
+Tajikistan,Commonwealth of Independent States,5.466,Explained_by:_Social_support,0.895
+Vietnam,Southeast Asia,5.411,Explained_by:_Social_support,0.873
+Libya,Middle East and North Africa,5.41,Explained_by:_Social_support,0.821
+Malaysia,Southeast Asia,5.384,Explained_by:_Social_support,0.797
+Indonesia,Southeast Asia,5.345,Explained_by:_Social_support,0.786
+Congo,Sub-Saharan Africa,5.342,Explained_by:_Social_support,0.392
+China,East Asia,5.339,Explained_by:_Social_support,0.785
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Explained_by:_Social_support,0.409
+Armenia,Commonwealth of Independent States,5.283,Explained_by:_Social_support,0.758
+Nepal,South Asia,5.269,Explained_by:_Social_support,0.702
+Bulgaria,Central and Eastern Europe,5.266,Explained_by:_Social_support,1.055
+Maldives,South Asia,5.198,Explained_by:_Social_support,1.015
+Azerbaijan,Commonwealth of Independent States,5.171,Explained_by:_Social_support,0.841
+Cameroon,Sub-Saharan Africa,5.142,Explained_by:_Social_support,0.556
+Senegal,Sub-Saharan Africa,5.132,Explained_by:_Social_support,0.558
+Albania,Central and Eastern Europe,5.117,Explained_by:_Social_support,0.529
+North Macedonia,Central and Eastern Europe,5.101,Explained_by:_Social_support,0.772
+Ghana,Sub-Saharan Africa,5.088,Explained_by:_Social_support,0.595
+Niger,Sub-Saharan Africa,5.074,Explained_by:_Social_support,0.402
+Turkmenistan,Commonwealth of Independent States,5.066,Explained_by:_Social_support,1.172
+Gambia,Sub-Saharan Africa,5.051,Explained_by:_Social_support,0.511
+Benin,Sub-Saharan Africa,5.045,Explained_by:_Social_support,0.058
+Laos,Southeast Asia,5.03,Explained_by:_Social_support,0.598
+Bangladesh,South Asia,5.025,Explained_by:_Social_support,0.52
+Guinea,Sub-Saharan Africa,4.984,Explained_by:_Social_support,0.399
+South Africa,Sub-Saharan Africa,4.956,Explained_by:_Social_support,0.895
+Turkey,Middle East and North Africa,4.948,Explained_by:_Social_support,0.809
+Pakistan,South Asia,4.934,Explained_by:_Social_support,0.423
+Morocco,Middle East and North Africa,4.918,Explained_by:_Social_support,0.219
+Venezuela,Latin America and Caribbean,4.892,Explained_by:_Social_support,0.897
+Georgia,Commonwealth of Independent States,4.891,Explained_by:_Social_support,0.47
+Algeria,Middle East and North Africa,4.887,Explained_by:_Social_support,0.765
+Ukraine,Commonwealth of Independent States,4.875,Explained_by:_Social_support,0.958
+Iraq,Middle East and North Africa,4.854,Explained_by:_Social_support,0.638
+Gabon,Sub-Saharan Africa,4.852,Explained_by:_Social_support,0.707
+Burkina Faso,Sub-Saharan Africa,4.834,Explained_by:_Social_support,0.472
+Cambodia,Southeast Asia,4.83,Explained_by:_Social_support,0.68
+Mozambique,Sub-Saharan Africa,4.794,Explained_by:_Social_support,0.634
+Nigeria,Sub-Saharan Africa,4.759,Explained_by:_Social_support,0.625
+Mali,Sub-Saharan Africa,4.723,Explained_by:_Social_support,0.59
+Iran,Middle East and North Africa,4.721,Explained_by:_Social_support,0.557
+Uganda,Sub-Saharan Africa,4.636,Explained_by:_Social_support,0.718
+Liberia,Sub-Saharan Africa,4.625,Explained_by:_Social_support,0.58
+Kenya,Sub-Saharan Africa,4.607,Explained_by:_Social_support,0.508
+Tunisia,Middle East and North Africa,4.596,Explained_by:_Social_support,0.515
+Lebanon,Middle East and North Africa,4.584,Explained_by:_Social_support,0.868
+Namibia,Sub-Saharan Africa,4.574,Explained_by:_Social_support,0.801
+Palestinian Territories,Middle East and North Africa,4.517,Explained_by:_Social_support,0.819
+Myanmar,Southeast Asia,4.426,Explained_by:_Social_support,0.713
+Jordan,Middle East and North Africa,4.395,Explained_by:_Social_support,0.685
+Chad,Sub-Saharan Africa,4.355,Explained_by:_Social_support,0.353
+Sri Lanka,South Asia,4.325,Explained_by:_Social_support,0.82
+Swaziland,Sub-Saharan Africa,4.308,Explained_by:_Social_support,0.693
+Comoros,Sub-Saharan Africa,4.289,Explained_by:_Social_support,0.367
+Egypt,Middle East and North Africa,4.283,Explained_by:_Social_support,0.647
+Ethiopia,Sub-Saharan Africa,4.275,Explained_by:_Social_support,0.679
+Mauritania,Sub-Saharan Africa,4.227,Explained_by:_Social_support,0.749
+Madagascar,Sub-Saharan Africa,4.208,Explained_by:_Social_support,0.503
+Togo,Sub-Saharan Africa,4.107,Explained_by:_Social_support,0.239
+Zambia,Sub-Saharan Africa,4.073,Explained_by:_Social_support,0.552
+Sierra Leone,Sub-Saharan Africa,3.849,Explained_by:_Social_support,0.377
+India,South Asia,3.819,Explained_by:_Social_support,0.316
+Burundi,Sub-Saharan Africa,3.775,Explained_by:_Social_support,0.062
+Yemen,Middle East and North Africa,3.658,Explained_by:_Social_support,0.831
+Tanzania,Sub-Saharan Africa,3.623,Explained_by:_Social_support,0.54
+Haiti,Latin America and Caribbean,3.615,Explained_by:_Social_support,0.173
+Malawi,Sub-Saharan Africa,3.6,Explained_by:_Social_support,0.168
+Lesotho,Sub-Saharan Africa,3.512,Explained_by:_Social_support,0.731
+Botswana,Sub-Saharan Africa,3.467,Explained_by:_Social_support,0.724
+Rwanda,Sub-Saharan Africa,3.415,Explained_by:_Social_support,0.202
+Zimbabwe,Sub-Saharan Africa,3.145,Explained_by:_Social_support,0.649
+Afghanistan,South Asia,2.523,Explained_by:_Social_support,0.0
+Finland,Western Europe,7.842,Explained_by:_Healthy_life_expectancy,0.741
+Denmark,Western Europe,7.62,Explained_by:_Healthy_life_expectancy,0.763
+Switzerland,Western Europe,7.571,Explained_by:_Healthy_life_expectancy,0.816
+Iceland,Western Europe,7.554,Explained_by:_Healthy_life_expectancy,0.772
+Netherlands,Western Europe,7.464,Explained_by:_Healthy_life_expectancy,0.753
+Norway,Western Europe,7.392,Explained_by:_Healthy_life_expectancy,0.782
+Sweden,Western Europe,7.363,Explained_by:_Healthy_life_expectancy,0.763
+Luxembourg,Western Europe,7.324,Explained_by:_Healthy_life_expectancy,0.76
+New Zealand,North America and ANZ,7.277,Explained_by:_Healthy_life_expectancy,0.785
+Austria,Western Europe,7.268,Explained_by:_Healthy_life_expectancy,0.782
+Australia,North America and ANZ,7.183,Explained_by:_Healthy_life_expectancy,0.801
+Israel,Middle East and North Africa,7.157,Explained_by:_Healthy_life_expectancy,0.788
+Germany,Western Europe,7.155,Explained_by:_Healthy_life_expectancy,0.757
+Canada,North America and ANZ,7.103,Explained_by:_Healthy_life_expectancy,0.798
+Ireland,Western Europe,7.085,Explained_by:_Healthy_life_expectancy,0.753
+Costa Rica,Latin America and Caribbean,7.069,Explained_by:_Healthy_life_expectancy,0.722
+United Kingdom,Western Europe,7.064,Explained_by:_Healthy_life_expectancy,0.757
+Czechia,Central and Eastern Europe,6.965,Explained_by:_Healthy_life_expectancy,0.703
+United States of America,North America and ANZ,6.951,Explained_by:_Healthy_life_expectancy,0.621
+Belgium,Western Europe,6.834,Explained_by:_Healthy_life_expectancy,0.747
+France,Western Europe,6.69,Explained_by:_Healthy_life_expectancy,0.804
+Bahrain,Middle East and North Africa,6.647,Explained_by:_Healthy_life_expectancy,0.662
+Malta,Western Europe,6.602,Explained_by:_Healthy_life_expectancy,0.747
+Taiwan,East Asia,6.584,Explained_by:_Healthy_life_expectancy,0.665
+United Arab Emirates,Middle East and North Africa,6.561,Explained_by:_Healthy_life_expectancy,0.594
+Saudi Arabia,Middle East and North Africa,6.494,Explained_by:_Healthy_life_expectancy,0.571
+Spain,Western Europe,6.491,Explained_by:_Healthy_life_expectancy,0.826
+Italy,Western Europe,6.483,Explained_by:_Healthy_life_expectancy,0.798
+Slovenia,Central and Eastern Europe,6.461,Explained_by:_Healthy_life_expectancy,0.722
+Guatemala,Latin America and Caribbean,6.435,Explained_by:_Healthy_life_expectancy,0.519
+Uruguay,Latin America and Caribbean,6.431,Explained_by:_Healthy_life_expectancy,0.649
+Singapore,Southeast Asia,6.377,Explained_by:_Healthy_life_expectancy,0.897
+Kosovo,Central and Eastern Europe,6.372,Explained_by:_Healthy_life_expectancy,0.483
+Slovakia,Central and Eastern Europe,6.331,Explained_by:_Healthy_life_expectancy,0.653
+Brazil,Latin America and Caribbean,6.33,Explained_by:_Healthy_life_expectancy,0.571
+Mexico,Latin America and Caribbean,6.317,Explained_by:_Healthy_life_expectancy,0.634
+Jamaica,Latin America and Caribbean,6.309,Explained_by:_Healthy_life_expectancy,0.599
+Lithuania,Central and Eastern Europe,6.255,Explained_by:_Healthy_life_expectancy,0.612
+Cyprus,Western Europe,6.223,Explained_by:_Healthy_life_expectancy,0.801
+Estonia,Central and Eastern Europe,6.189,Explained_by:_Healthy_life_expectancy,0.64
+Panama,Latin America and Caribbean,6.18,Explained_by:_Healthy_life_expectancy,0.667
+Uzbekistan,Commonwealth of Independent States,6.179,Explained_by:_Healthy_life_expectancy,0.528
+Chile,Latin America and Caribbean,6.172,Explained_by:_Healthy_life_expectancy,0.678
+Poland,Central and Eastern Europe,6.166,Explained_by:_Healthy_life_expectancy,0.668
+Kazakhstan,Commonwealth of Independent States,6.152,Explained_by:_Healthy_life_expectancy,0.527
+Romania,Central and Eastern Europe,6.14,Explained_by:_Healthy_life_expectancy,0.595
+Kuwait,Middle East and North Africa,6.106,Explained_by:_Healthy_life_expectancy,0.58
+Serbia,Central and Eastern Europe,6.078,Explained_by:_Healthy_life_expectancy,0.634
+El Salvador,Latin America and Caribbean,6.061,Explained_by:_Healthy_life_expectancy,0.565
+Mauritius,Sub-Saharan Africa,6.049,Explained_by:_Healthy_life_expectancy,0.574
+Latvia,Central and Eastern Europe,6.032,Explained_by:_Healthy_life_expectancy,0.587
+Colombia,Latin America and Caribbean,6.012,Explained_by:_Healthy_life_expectancy,0.615
+Hungary,Central and Eastern Europe,5.992,Explained_by:_Healthy_life_expectancy,0.615
+Thailand,Southeast Asia,5.985,Explained_by:_Healthy_life_expectancy,0.596
+Nicaragua,Latin America and Caribbean,5.972,Explained_by:_Healthy_life_expectancy,0.604
+Japan,East Asia,5.94,Explained_by:_Healthy_life_expectancy,0.838
+Argentina,Latin America and Caribbean,5.929,Explained_by:_Healthy_life_expectancy,0.646
+Portugal,Western Europe,5.929,Explained_by:_Healthy_life_expectancy,0.76
+Honduras,Latin America and Caribbean,5.919,Explained_by:_Healthy_life_expectancy,0.593
+Croatia,Central and Eastern Europe,5.882,Explained_by:_Healthy_life_expectancy,0.703
+Philippines,Southeast Asia,5.88,Explained_by:_Healthy_life_expectancy,0.426
+South Korea,East Asia,5.845,Explained_by:_Healthy_life_expectancy,0.801
+Peru,Latin America and Caribbean,5.84,Explained_by:_Healthy_life_expectancy,0.623
+Bosnia and Herz.,Central and Eastern Europe,5.813,Explained_by:_Healthy_life_expectancy,0.618
+Moldova,Commonwealth of Independent States,5.766,Explained_by:_Healthy_life_expectancy,0.542
+Ecuador,Latin America and Caribbean,5.764,Explained_by:_Healthy_life_expectancy,0.64
+Kyrgyzstan,Commonwealth of Independent States,5.744,Explained_by:_Healthy_life_expectancy,0.501
+Greece,Western Europe,5.723,Explained_by:_Healthy_life_expectancy,0.76
+Bolivia,Latin America and Caribbean,5.716,Explained_by:_Healthy_life_expectancy,0.486
+Mongolia,East Asia,5.677,Explained_by:_Healthy_life_expectancy,0.442
+Paraguay,Latin America and Caribbean,5.653,Explained_by:_Healthy_life_expectancy,0.549
+Montenegro,Central and Eastern Europe,5.581,Explained_by:_Healthy_life_expectancy,0.637
+Dominican Rep.,Latin America and Caribbean,5.545,Explained_by:_Healthy_life_expectancy,0.555
+N. Cyprus,Western Europe,5.536,Explained_by:_Healthy_life_expectancy,0.801
+Belarus,Commonwealth of Independent States,5.534,Explained_by:_Healthy_life_expectancy,0.56
+Russia,Commonwealth of Independent States,5.477,Explained_by:_Healthy_life_expectancy,0.511
+Hong Kong S.A.R. of China,East Asia,5.477,Explained_by:_Healthy_life_expectancy,0.893
+Tajikistan,Commonwealth of Independent States,5.466,Explained_by:_Healthy_life_expectancy,0.498
+Vietnam,Southeast Asia,5.411,Explained_by:_Healthy_life_expectancy,0.616
+Libya,Middle East and North Africa,5.41,Explained_by:_Healthy_life_expectancy,0.435
+Malaysia,Southeast Asia,5.384,Explained_by:_Healthy_life_expectancy,0.587
+Indonesia,Southeast Asia,5.345,Explained_by:_Healthy_life_expectancy,0.433
+Congo,Sub-Saharan Africa,5.342,Explained_by:_Healthy_life_expectancy,0.307
+China,East Asia,5.339,Explained_by:_Healthy_life_expectancy,0.665
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Explained_by:_Healthy_life_expectancy,0.052
+Armenia,Commonwealth of Independent States,5.283,Explained_by:_Healthy_life_expectancy,0.585
+Nepal,South Asia,5.269,Explained_by:_Healthy_life_expectancy,0.496
+Bulgaria,Central and Eastern Europe,5.266,Explained_by:_Healthy_life_expectancy,0.583
+Maldives,South Asia,5.198,Explained_by:_Healthy_life_expectancy,0.697
+Azerbaijan,Commonwealth of Independent States,5.171,Explained_by:_Healthy_life_expectancy,0.541
+Cameroon,Sub-Saharan Africa,5.142,Explained_by:_Healthy_life_expectancy,0.159
+Senegal,Sub-Saharan Africa,5.132,Explained_by:_Healthy_life_expectancy,0.357
+Albania,Central and Eastern Europe,5.117,Explained_by:_Healthy_life_expectancy,0.646
+North Macedonia,Central and Eastern Europe,5.101,Explained_by:_Healthy_life_expectancy,0.535
+Ghana,Sub-Saharan Africa,5.088,Explained_by:_Healthy_life_expectancy,0.287
+Niger,Sub-Saharan Africa,5.074,Explained_by:_Healthy_life_expectancy,0.167
+Turkmenistan,Commonwealth of Independent States,5.066,Explained_by:_Healthy_life_expectancy,0.439
+Gambia,Sub-Saharan Africa,5.051,Explained_by:_Healthy_life_expectancy,0.21
+Benin,Sub-Saharan Africa,5.045,Explained_by:_Healthy_life_expectancy,0.196
+Laos,Southeast Asia,5.03,Explained_by:_Healthy_life_expectancy,0.33
+Bangladesh,South Asia,5.025,Explained_by:_Healthy_life_expectancy,0.514
+Guinea,Sub-Saharan Africa,4.984,Explained_by:_Healthy_life_expectancy,0.206
+South Africa,Sub-Saharan Africa,4.956,Explained_by:_Healthy_life_expectancy,0.265
+Turkey,Middle East and North Africa,4.948,Explained_by:_Healthy_life_expectancy,0.59
+Pakistan,South Asia,4.934,Explained_by:_Healthy_life_expectancy,0.322
+Morocco,Middle East and North Africa,4.918,Explained_by:_Healthy_life_expectancy,0.558
+Venezuela,Latin America and Caribbean,4.892,Explained_by:_Healthy_life_expectancy,0.574
+Georgia,Commonwealth of Independent States,4.891,Explained_by:_Healthy_life_expectancy,0.498
+Algeria,Middle East and North Africa,4.887,Explained_by:_Healthy_life_expectancy,0.552
+Ukraine,Commonwealth of Independent States,4.875,Explained_by:_Healthy_life_expectancy,0.517
+Iraq,Middle East and North Africa,4.854,Explained_by:_Healthy_life_expectancy,0.381
+Gabon,Sub-Saharan Africa,4.852,Explained_by:_Healthy_life_expectancy,0.362
+Burkina Faso,Sub-Saharan Africa,4.834,Explained_by:_Healthy_life_expectancy,0.179
+Cambodia,Southeast Asia,4.83,Explained_by:_Healthy_life_expectancy,0.426
+Mozambique,Sub-Saharan Africa,4.794,Explained_by:_Healthy_life_expectancy,0.196
+Nigeria,Sub-Saharan Africa,4.759,Explained_by:_Healthy_life_expectancy,0.051
+Mali,Sub-Saharan Africa,4.723,Explained_by:_Healthy_life_expectancy,0.11
+Iran,Middle East and North Africa,4.721,Explained_by:_Healthy_life_expectancy,0.561
+Uganda,Sub-Saharan Africa,4.636,Explained_by:_Healthy_life_expectancy,0.24
+Liberia,Sub-Saharan Africa,4.625,Explained_by:_Healthy_life_expectancy,0.253
+Kenya,Sub-Saharan Africa,4.607,Explained_by:_Healthy_life_expectancy,0.385
+Tunisia,Middle East and North Africa,4.596,Explained_by:_Healthy_life_expectancy,0.59
+Lebanon,Middle East and North Africa,4.584,Explained_by:_Healthy_life_expectancy,0.595
+Namibia,Sub-Saharan Africa,4.574,Explained_by:_Healthy_life_expectancy,0.262
+Palestinian Territories,Middle East and North Africa,4.517,Explained_by:_Healthy_life_expectancy,0.434
+Myanmar,Southeast Asia,4.426,Explained_by:_Healthy_life_expectancy,0.341
+Jordan,Middle East and North Africa,4.395,Explained_by:_Healthy_life_expectancy,0.583
+Chad,Sub-Saharan Africa,4.355,Explained_by:_Healthy_life_expectancy,0.0
+Sri Lanka,South Asia,4.325,Explained_by:_Healthy_life_expectancy,0.593
+Swaziland,Sub-Saharan Africa,4.308,Explained_by:_Healthy_life_expectancy,0.074
+Comoros,Sub-Saharan Africa,4.289,Explained_by:_Healthy_life_expectancy,0.279
+Egypt,Middle East and North Africa,4.283,Explained_by:_Healthy_life_expectancy,0.426
+Ethiopia,Sub-Saharan Africa,4.275,Explained_by:_Healthy_life_expectancy,0.331
+Mauritania,Sub-Saharan Africa,4.227,Explained_by:_Healthy_life_expectancy,0.273
+Madagascar,Sub-Saharan Africa,4.208,Explained_by:_Healthy_life_expectancy,0.341
+Togo,Sub-Saharan Africa,4.107,Explained_by:_Healthy_life_expectancy,0.203
+Zambia,Sub-Saharan Africa,4.073,Explained_by:_Healthy_life_expectancy,0.231
+Sierra Leone,Sub-Saharan Africa,3.849,Explained_by:_Healthy_life_expectancy,0.1
+India,South Asia,3.819,Explained_by:_Healthy_life_expectancy,0.383
+Burundi,Sub-Saharan Africa,3.775,Explained_by:_Healthy_life_expectancy,0.155
+Yemen,Middle East and North Africa,3.658,Explained_by:_Healthy_life_expectancy,0.272
+Tanzania,Sub-Saharan Africa,3.623,Explained_by:_Healthy_life_expectancy,0.3
+Haiti,Latin America and Caribbean,3.615,Explained_by:_Healthy_life_expectancy,0.227
+Malawi,Sub-Saharan Africa,3.6,Explained_by:_Healthy_life_expectancy,0.298
+Lesotho,Sub-Saharan Africa,3.512,Explained_by:_Healthy_life_expectancy,0.007
+Botswana,Sub-Saharan Africa,3.467,Explained_by:_Healthy_life_expectancy,0.34
+Rwanda,Sub-Saharan Africa,3.415,Explained_by:_Healthy_life_expectancy,0.407
+Zimbabwe,Sub-Saharan Africa,3.145,Explained_by:_Healthy_life_expectancy,0.243
+Afghanistan,South Asia,2.523,Explained_by:_Healthy_life_expectancy,0.126
+Finland,Western Europe,7.842,Explained_by:_Freedom_to_make_life_choices,0.691
+Denmark,Western Europe,7.62,Explained_by:_Freedom_to_make_life_choices,0.686
+Switzerland,Western Europe,7.571,Explained_by:_Freedom_to_make_life_choices,0.653
+Iceland,Western Europe,7.554,Explained_by:_Freedom_to_make_life_choices,0.698
+Netherlands,Western Europe,7.464,Explained_by:_Freedom_to_make_life_choices,0.647
+Norway,Western Europe,7.392,Explained_by:_Freedom_to_make_life_choices,0.703
+Sweden,Western Europe,7.363,Explained_by:_Freedom_to_make_life_choices,0.685
+Luxembourg,Western Europe,7.324,Explained_by:_Freedom_to_make_life_choices,0.639
+New Zealand,North America and ANZ,7.277,Explained_by:_Freedom_to_make_life_choices,0.665
+Austria,Western Europe,7.268,Explained_by:_Freedom_to_make_life_choices,0.64
+Australia,North America and ANZ,7.183,Explained_by:_Freedom_to_make_life_choices,0.647
+Israel,Middle East and North Africa,7.157,Explained_by:_Freedom_to_make_life_choices,0.509
+Germany,Western Europe,7.155,Explained_by:_Freedom_to_make_life_choices,0.6
+Canada,North America and ANZ,7.103,Explained_by:_Freedom_to_make_life_choices,0.648
+Ireland,Western Europe,7.085,Explained_by:_Freedom_to_make_life_choices,0.606
+Costa Rica,Latin America and Caribbean,7.069,Explained_by:_Freedom_to_make_life_choices,0.673
+United Kingdom,Western Europe,7.064,Explained_by:_Freedom_to_make_life_choices,0.58
+Czechia,Central and Eastern Europe,6.965,Explained_by:_Freedom_to_make_life_choices,0.58
+United States of America,North America and ANZ,6.951,Explained_by:_Freedom_to_make_life_choices,0.554
+Belgium,Western Europe,6.834,Explained_by:_Freedom_to_make_life_choices,0.489
+France,Western Europe,6.69,Explained_by:_Freedom_to_make_life_choices,0.536
+Bahrain,Middle East and North Africa,6.647,Explained_by:_Freedom_to_make_life_choices,0.661
+Malta,Western Europe,6.602,Explained_by:_Freedom_to_make_life_choices,0.664
+Taiwan,East Asia,6.584,Explained_by:_Freedom_to_make_life_choices,0.49
+United Arab Emirates,Middle East and North Africa,6.561,Explained_by:_Freedom_to_make_life_choices,0.67
+Saudi Arabia,Middle East and North Africa,6.494,Explained_by:_Freedom_to_make_life_choices,0.603
+Spain,Western Europe,6.491,Explained_by:_Freedom_to_make_life_choices,0.462
+Italy,Western Europe,6.483,Explained_by:_Freedom_to_make_life_choices,0.379
+Slovenia,Central and Eastern Europe,6.461,Explained_by:_Freedom_to_make_life_choices,0.69
+Guatemala,Latin America and Caribbean,6.435,Explained_by:_Freedom_to_make_life_choices,0.638
+Uruguay,Latin America and Caribbean,6.431,Explained_by:_Freedom_to_make_life_choices,0.625
+Singapore,Southeast Asia,6.377,Explained_by:_Freedom_to_make_life_choices,0.664
+Kosovo,Central and Eastern Europe,6.372,Explained_by:_Freedom_to_make_life_choices,0.593
+Slovakia,Central and Eastern Europe,6.331,Explained_by:_Freedom_to_make_life_choices,0.468
+Brazil,Latin America and Caribbean,6.33,Explained_by:_Freedom_to_make_life_choices,0.514
+Mexico,Latin America and Caribbean,6.317,Explained_by:_Freedom_to_make_life_choices,0.585
+Jamaica,Latin America and Caribbean,6.309,Explained_by:_Freedom_to_make_life_choices,0.618
+Lithuania,Central and Eastern Europe,6.255,Explained_by:_Freedom_to_make_life_choices,0.476
+Cyprus,Western Europe,6.223,Explained_by:_Freedom_to_make_life_choices,0.464
+Estonia,Central and Eastern Europe,6.189,Explained_by:_Freedom_to_make_life_choices,0.641
+Panama,Latin America and Caribbean,6.18,Explained_by:_Freedom_to_make_life_choices,0.596
+Uzbekistan,Commonwealth of Independent States,6.179,Explained_by:_Freedom_to_make_life_choices,0.716
+Chile,Latin America and Caribbean,6.172,Explained_by:_Freedom_to_make_life_choices,0.438
+Poland,Central and Eastern Europe,6.166,Explained_by:_Freedom_to_make_life_choices,0.558
+Kazakhstan,Commonwealth of Independent States,6.152,Explained_by:_Freedom_to_make_life_choices,0.573
+Romania,Central and Eastern Europe,6.14,Explained_by:_Freedom_to_make_life_choices,0.564
+Kuwait,Middle East and North Africa,6.106,Explained_by:_Freedom_to_make_life_choices,0.591
+Serbia,Central and Eastern Europe,6.078,Explained_by:_Freedom_to_make_life_choices,0.482
+El Salvador,Latin America and Caribbean,6.061,Explained_by:_Freedom_to_make_life_choices,0.615
+Mauritius,Sub-Saharan Africa,6.049,Explained_by:_Freedom_to_make_life_choices,0.59
+Latvia,Central and Eastern Europe,6.032,Explained_by:_Freedom_to_make_life_choices,0.405
+Colombia,Latin America and Caribbean,6.012,Explained_by:_Freedom_to_make_life_choices,0.554
+Hungary,Central and Eastern Europe,5.992,Explained_by:_Freedom_to_make_life_choices,0.454
+Thailand,Southeast Asia,5.985,Explained_by:_Freedom_to_make_life_choices,0.611
+Nicaragua,Latin America and Caribbean,5.972,Explained_by:_Freedom_to_make_life_choices,0.553
+Japan,East Asia,5.94,Explained_by:_Freedom_to_make_life_choices,0.504
+Argentina,Latin America and Caribbean,5.929,Explained_by:_Freedom_to_make_life_choices,0.544
+Portugal,Western Europe,5.929,Explained_by:_Freedom_to_make_life_choices,0.621
+Honduras,Latin America and Caribbean,5.919,Explained_by:_Freedom_to_make_life_choices,0.578
+Croatia,Central and Eastern Europe,5.882,Explained_by:_Freedom_to_make_life_choices,0.453
+Philippines,Southeast Asia,5.88,Explained_by:_Freedom_to_make_life_choices,0.651
+South Korea,East Asia,5.845,Explained_by:_Freedom_to_make_life_choices,0.353
+Peru,Latin America and Caribbean,5.84,Explained_by:_Freedom_to_make_life_choices,0.536
+Bosnia and Herz.,Central and Eastern Europe,5.813,Explained_by:_Freedom_to_make_life_choices,0.395
+Moldova,Commonwealth of Independent States,5.766,Explained_by:_Freedom_to_make_life_choices,0.536
+Ecuador,Latin America and Caribbean,5.764,Explained_by:_Freedom_to_make_life_choices,0.56
+Kyrgyzstan,Commonwealth of Independent States,5.744,Explained_by:_Freedom_to_make_life_choices,0.673
+Greece,Western Europe,5.723,Explained_by:_Freedom_to_make_life_choices,0.243
+Bolivia,Latin America and Caribbean,5.716,Explained_by:_Freedom_to_make_life_choices,0.6
+Mongolia,East Asia,5.677,Explained_by:_Freedom_to_make_life_choices,0.397
+Paraguay,Latin America and Caribbean,5.653,Explained_by:_Freedom_to_make_life_choices,0.602
+Montenegro,Central and Eastern Europe,5.581,Explained_by:_Freedom_to_make_life_choices,0.397
+Dominican Rep.,Latin America and Caribbean,5.545,Explained_by:_Freedom_to_make_life_choices,0.581
+N. Cyprus,Western Europe,5.536,Explained_by:_Freedom_to_make_life_choices,0.503
+Belarus,Commonwealth of Independent States,5.534,Explained_by:_Freedom_to_make_life_choices,0.326
+Russia,Commonwealth of Independent States,5.477,Explained_by:_Freedom_to_make_life_choices,0.409
+Hong Kong S.A.R. of China,East Asia,5.477,Explained_by:_Freedom_to_make_life_choices,0.408
+Tajikistan,Commonwealth of Independent States,5.466,Explained_by:_Freedom_to_make_life_choices,0.548
+Vietnam,Southeast Asia,5.411,Explained_by:_Freedom_to_make_life_choices,0.679
+Libya,Middle East and North Africa,5.41,Explained_by:_Freedom_to_make_life_choices,0.474
+Malaysia,Southeast Asia,5.384,Explained_by:_Freedom_to_make_life_choices,0.624
+Indonesia,Southeast Asia,5.345,Explained_by:_Freedom_to_make_life_choices,0.598
+Congo,Sub-Saharan Africa,5.342,Explained_by:_Freedom_to_make_life_choices,0.381
+China,East Asia,5.339,Explained_by:_Freedom_to_make_life_choices,0.636
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Explained_by:_Freedom_to_make_life_choices,0.438
+Armenia,Commonwealth of Independent States,5.283,Explained_by:_Freedom_to_make_life_choices,0.54
+Nepal,South Asia,5.269,Explained_by:_Freedom_to_make_life_choices,0.488
+Bulgaria,Central and Eastern Europe,5.266,Explained_by:_Freedom_to_make_life_choices,0.494
+Maldives,South Asia,5.198,Explained_by:_Freedom_to_make_life_choices,0.575
+Azerbaijan,Commonwealth of Independent States,5.171,Explained_by:_Freedom_to_make_life_choices,0.526
+Cameroon,Sub-Saharan Africa,5.142,Explained_by:_Freedom_to_make_life_choices,0.425
+Senegal,Sub-Saharan Africa,5.132,Explained_by:_Freedom_to_make_life_choices,0.381
+Albania,Central and Eastern Europe,5.117,Explained_by:_Freedom_to_make_life_choices,0.491
+North Macedonia,Central and Eastern Europe,5.101,Explained_by:_Freedom_to_make_life_choices,0.45
+Ghana,Sub-Saharan Africa,5.088,Explained_by:_Freedom_to_make_life_choices,0.517
+Niger,Sub-Saharan Africa,5.074,Explained_by:_Freedom_to_make_life_choices,0.516
+Turkmenistan,Commonwealth of Independent States,5.066,Explained_by:_Freedom_to_make_life_choices,0.602
+Gambia,Sub-Saharan Africa,5.051,Explained_by:_Freedom_to_make_life_choices,0.384
+Benin,Sub-Saharan Africa,5.045,Explained_by:_Freedom_to_make_life_choices,0.457
+Laos,Southeast Asia,5.03,Explained_by:_Freedom_to_make_life_choices,0.643
+Bangladesh,South Asia,5.025,Explained_by:_Freedom_to_make_life_choices,0.603
+Guinea,Sub-Saharan Africa,4.984,Explained_by:_Freedom_to_make_life_choices,0.384
+South Africa,Sub-Saharan Africa,4.956,Explained_by:_Freedom_to_make_life_choices,0.447
+Turkey,Middle East and North Africa,4.948,Explained_by:_Freedom_to_make_life_choices,0.236
+Pakistan,South Asia,4.934,Explained_by:_Freedom_to_make_life_choices,0.418
+Morocco,Middle East and North Africa,4.918,Explained_by:_Freedom_to_make_life_choices,0.477
+Venezuela,Latin America and Caribbean,4.892,Explained_by:_Freedom_to_make_life_choices,0.284
+Georgia,Commonwealth of Independent States,4.891,Explained_by:_Freedom_to_make_life_choices,0.488
+Algeria,Middle East and North Africa,4.887,Explained_by:_Freedom_to_make_life_choices,0.119
+Ukraine,Commonwealth of Independent States,4.875,Explained_by:_Freedom_to_make_life_choices,0.417
+Iraq,Middle East and North Africa,4.854,Explained_by:_Freedom_to_make_life_choices,0.302
+Gabon,Sub-Saharan Africa,4.852,Explained_by:_Freedom_to_make_life_choices,0.424
+Burkina Faso,Sub-Saharan Africa,4.834,Explained_by:_Freedom_to_make_life_choices,0.381
+Cambodia,Southeast Asia,4.83,Explained_by:_Freedom_to_make_life_choices,0.702
+Mozambique,Sub-Saharan Africa,4.794,Explained_by:_Freedom_to_make_life_choices,0.608
+Nigeria,Sub-Saharan Africa,4.759,Explained_by:_Freedom_to_make_life_choices,0.433
+Mali,Sub-Saharan Africa,4.723,Explained_by:_Freedom_to_make_life_choices,0.384
+Iran,Middle East and North Africa,4.721,Explained_by:_Freedom_to_make_life_choices,0.275
+Uganda,Sub-Saharan Africa,4.636,Explained_by:_Freedom_to_make_life_choices,0.398
+Liberia,Sub-Saharan Africa,4.625,Explained_by:_Freedom_to_make_life_choices,0.43
+Kenya,Sub-Saharan Africa,4.607,Explained_by:_Freedom_to_make_life_choices,0.483
+Tunisia,Middle East and North Africa,4.596,Explained_by:_Freedom_to_make_life_choices,0.334
+Lebanon,Middle East and North Africa,4.584,Explained_by:_Freedom_to_make_life_choices,0.175
+Namibia,Sub-Saharan Africa,4.574,Explained_by:_Freedom_to_make_life_choices,0.411
+Palestinian Territories,Middle East and North Africa,4.517,Explained_by:_Freedom_to_make_life_choices,0.33
+Myanmar,Southeast Asia,4.426,Explained_by:_Freedom_to_make_life_choices,0.601
+Jordan,Middle East and North Africa,4.395,Explained_by:_Freedom_to_make_life_choices,0.455
+Chad,Sub-Saharan Africa,4.355,Explained_by:_Freedom_to_make_life_choices,0.24
+Sri Lanka,South Asia,4.325,Explained_by:_Freedom_to_make_life_choices,0.559
+Swaziland,Sub-Saharan Africa,4.308,Explained_by:_Freedom_to_make_life_choices,0.323
+Comoros,Sub-Saharan Africa,4.289,Explained_by:_Freedom_to_make_life_choices,0.202
+Egypt,Middle East and North Africa,4.283,Explained_by:_Freedom_to_make_life_choices,0.446
+Ethiopia,Sub-Saharan Africa,4.275,Explained_by:_Freedom_to_make_life_choices,0.451
+Mauritania,Sub-Saharan Africa,4.227,Explained_by:_Freedom_to_make_life_choices,0.218
+Madagascar,Sub-Saharan Africa,4.208,Explained_by:_Freedom_to_make_life_choices,0.207
+Togo,Sub-Saharan Africa,4.107,Explained_by:_Freedom_to_make_life_choices,0.289
+Zambia,Sub-Saharan Africa,4.073,Explained_by:_Freedom_to_make_life_choices,0.487
+Sierra Leone,Sub-Saharan Africa,3.849,Explained_by:_Freedom_to_make_life_choices,0.408
+India,South Asia,3.819,Explained_by:_Freedom_to_make_life_choices,0.622
+Burundi,Sub-Saharan Africa,3.775,Explained_by:_Freedom_to_make_life_choices,0.298
+Yemen,Middle East and North Africa,3.658,Explained_by:_Freedom_to_make_life_choices,0.268
+Tanzania,Sub-Saharan Africa,3.623,Explained_by:_Freedom_to_make_life_choices,0.549
+Haiti,Latin America and Caribbean,3.615,Explained_by:_Freedom_to_make_life_choices,0.257
+Malawi,Sub-Saharan Africa,3.6,Explained_by:_Freedom_to_make_life_choices,0.484
+Lesotho,Sub-Saharan Africa,3.512,Explained_by:_Freedom_to_make_life_choices,0.405
+Botswana,Sub-Saharan Africa,3.467,Explained_by:_Freedom_to_make_life_choices,0.539
+Rwanda,Sub-Saharan Africa,3.415,Explained_by:_Freedom_to_make_life_choices,0.627
+Zimbabwe,Sub-Saharan Africa,3.145,Explained_by:_Freedom_to_make_life_choices,0.359
+Afghanistan,South Asia,2.523,Explained_by:_Freedom_to_make_life_choices,0.0
+Finland,Western Europe,7.842,Explained_by:_Generosity,0.124
+Denmark,Western Europe,7.62,Explained_by:_Generosity,0.208
+Switzerland,Western Europe,7.571,Explained_by:_Generosity,0.204
+Iceland,Western Europe,7.554,Explained_by:_Generosity,0.293
+Netherlands,Western Europe,7.464,Explained_by:_Generosity,0.302
+Norway,Western Europe,7.392,Explained_by:_Generosity,0.249
+Sweden,Western Europe,7.363,Explained_by:_Generosity,0.244
+Luxembourg,Western Europe,7.324,Explained_by:_Generosity,0.166
+New Zealand,North America and ANZ,7.277,Explained_by:_Generosity,0.276
+Austria,Western Europe,7.268,Explained_by:_Generosity,0.215
+Australia,North America and ANZ,7.183,Explained_by:_Generosity,0.291
+Israel,Middle East and North Africa,7.157,Explained_by:_Generosity,0.208
+Germany,Western Europe,7.155,Explained_by:_Generosity,0.195
+Canada,North America and ANZ,7.103,Explained_by:_Generosity,0.246
+Ireland,Western Europe,7.085,Explained_by:_Generosity,0.238
+Costa Rica,Latin America and Caribbean,7.069,Explained_by:_Generosity,0.105
+United Kingdom,Western Europe,7.064,Explained_by:_Generosity,0.34
+Czechia,Central and Eastern Europe,6.965,Explained_by:_Generosity,0.052
+United States of America,North America and ANZ,6.951,Explained_by:_Generosity,0.252
+Belgium,Western Europe,6.834,Explained_by:_Generosity,0.088
+France,Western Europe,6.69,Explained_by:_Generosity,0.092
+Bahrain,Middle East and North Africa,6.647,Explained_by:_Generosity,0.246
+Malta,Western Europe,6.602,Explained_by:_Generosity,0.275
+Taiwan,East Asia,6.584,Explained_by:_Generosity,0.142
+United Arab Emirates,Middle East and North Africa,6.561,Explained_by:_Generosity,0.236
+Saudi Arabia,Middle East and North Africa,6.494,Explained_by:_Generosity,0.09
+Spain,Western Europe,6.491,Explained_by:_Generosity,0.135
+Italy,Western Europe,6.483,Explained_by:_Generosity,0.133
+Slovenia,Central and Eastern Europe,6.461,Explained_by:_Generosity,0.122
+Guatemala,Latin America and Caribbean,6.435,Explained_by:_Generosity,0.163
+Uruguay,Latin America and Caribbean,6.431,Explained_by:_Generosity,0.128
+Singapore,Southeast Asia,6.377,Explained_by:_Generosity,0.176
+Kosovo,Central and Eastern Europe,6.372,Explained_by:_Generosity,0.356
+Slovakia,Central and Eastern Europe,6.331,Explained_by:_Generosity,0.107
+Brazil,Latin America and Caribbean,6.33,Explained_by:_Generosity,0.142
+Mexico,Latin America and Caribbean,6.317,Explained_by:_Generosity,0.092
+Jamaica,Latin America and Caribbean,6.309,Explained_by:_Generosity,0.099
+Lithuania,Central and Eastern Europe,6.255,Explained_by:_Generosity,0.056
+Cyprus,Western Europe,6.223,Explained_by:_Generosity,0.178
+Estonia,Central and Eastern Europe,6.189,Explained_by:_Generosity,0.119
+Panama,Latin America and Caribbean,6.18,Explained_by:_Generosity,0.079
+Uzbekistan,Commonwealth of Independent States,6.179,Explained_by:_Generosity,0.391
+Chile,Latin America and Caribbean,6.172,Explained_by:_Generosity,0.159
+Poland,Central and Eastern Europe,6.166,Explained_by:_Generosity,0.08
+Kazakhstan,Commonwealth of Independent States,6.152,Explained_by:_Generosity,0.143
+Romania,Central and Eastern Europe,6.14,Explained_by:_Generosity,0.045
+Kuwait,Middle East and North Africa,6.106,Explained_by:_Generosity,0.12
+Serbia,Central and Eastern Europe,6.078,Explained_by:_Generosity,0.189
+El Salvador,Latin America and Caribbean,6.061,Explained_by:_Generosity,0.116
+Mauritius,Sub-Saharan Africa,6.049,Explained_by:_Generosity,0.153
+Latvia,Central and Eastern Europe,6.032,Explained_by:_Generosity,0.082
+Colombia,Latin America and Caribbean,6.012,Explained_by:_Generosity,0.1
+Hungary,Central and Eastern Europe,5.992,Explained_by:_Generosity,0.067
+Thailand,Southeast Asia,5.985,Explained_by:_Generosity,0.375
+Nicaragua,Latin America and Caribbean,5.972,Explained_by:_Generosity,0.201
+Japan,East Asia,5.94,Explained_by:_Generosity,0.02
+Argentina,Latin America and Caribbean,5.929,Explained_by:_Generosity,0.069
+Portugal,Western Europe,5.929,Explained_by:_Generosity,0.029
+Honduras,Latin America and Caribbean,5.919,Explained_by:_Generosity,0.241
+Croatia,Central and Eastern Europe,5.882,Explained_by:_Generosity,0.111
+Philippines,Southeast Asia,5.88,Explained_by:_Generosity,0.125
+South Korea,East Asia,5.845,Explained_by:_Generosity,0.134
+Peru,Latin America and Caribbean,5.84,Explained_by:_Generosity,0.087
+Bosnia and Herz.,Central and Eastern Europe,5.813,Explained_by:_Generosity,0.261
+Moldova,Commonwealth of Independent States,5.766,Explained_by:_Generosity,0.137
+Ecuador,Latin America and Caribbean,5.764,Explained_by:_Generosity,0.107
+Kyrgyzstan,Commonwealth of Independent States,5.744,Explained_by:_Generosity,0.266
+Greece,Western Europe,5.723,Explained_by:_Generosity,0.0
+Bolivia,Latin America and Caribbean,5.716,Explained_by:_Generosity,0.138
+Mongolia,East Asia,5.677,Explained_by:_Generosity,0.263
+Paraguay,Latin America and Caribbean,5.653,Explained_by:_Generosity,0.206
+Montenegro,Central and Eastern Europe,5.581,Explained_by:_Generosity,0.166
+Dominican Rep.,Latin America and Caribbean,5.545,Explained_by:_Generosity,0.101
+N. Cyprus,Western Europe,5.536,Explained_by:_Generosity,0.196
+Belarus,Commonwealth of Independent States,5.534,Explained_by:_Generosity,0.07
+Russia,Commonwealth of Independent States,5.477,Explained_by:_Generosity,0.115
+Hong Kong S.A.R. of China,East Asia,5.477,Explained_by:_Generosity,0.232
+Tajikistan,Commonwealth of Independent States,5.466,Explained_by:_Generosity,0.152
+Vietnam,Southeast Asia,5.411,Explained_by:_Generosity,0.124
+Libya,Middle East and North Africa,5.41,Explained_by:_Generosity,0.131
+Malaysia,Southeast Asia,5.384,Explained_by:_Generosity,0.27
+Indonesia,Southeast Asia,5.345,Explained_by:_Generosity,0.541
+Congo,Sub-Saharan Africa,5.342,Explained_by:_Generosity,0.144
+China,East Asia,5.339,Explained_by:_Generosity,0.093
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Explained_by:_Generosity,0.177
+Armenia,Commonwealth of Independent States,5.283,Explained_by:_Generosity,0.079
+Nepal,South Asia,5.269,Explained_by:_Generosity,0.287
+Bulgaria,Central and Eastern Europe,5.266,Explained_by:_Generosity,0.125
+Maldives,South Asia,5.198,Explained_by:_Generosity,0.204
+Azerbaijan,Commonwealth of Independent States,5.171,Explained_by:_Generosity,0.043
+Cameroon,Sub-Saharan Africa,5.142,Explained_by:_Generosity,0.205
+Senegal,Sub-Saharan Africa,5.132,Explained_by:_Generosity,0.158
+Albania,Central and Eastern Europe,5.117,Explained_by:_Generosity,0.168
+North Macedonia,Central and Eastern Europe,5.101,Explained_by:_Generosity,0.212
+Ghana,Sub-Saharan Africa,5.088,Explained_by:_Generosity,0.268
+Niger,Sub-Saharan Africa,5.074,Explained_by:_Generosity,0.2
+Turkmenistan,Commonwealth of Independent States,5.066,Explained_by:_Generosity,0.366
+Gambia,Sub-Saharan Africa,5.051,Explained_by:_Generosity,0.465
+Benin,Sub-Saharan Africa,5.045,Explained_by:_Generosity,0.166
+Laos,Southeast Asia,5.03,Explained_by:_Generosity,0.268
+Bangladesh,South Asia,5.025,Explained_by:_Generosity,0.161
+Guinea,Sub-Saharan Africa,4.984,Explained_by:_Generosity,0.25
+South Africa,Sub-Saharan Africa,4.956,Explained_by:_Generosity,0.144
+Turkey,Middle East and North Africa,4.948,Explained_by:_Generosity,0.097
+Pakistan,South Asia,4.934,Explained_by:_Generosity,0.252
+Morocco,Middle East and North Africa,4.918,Explained_by:_Generosity,0.034
+Venezuela,Latin America and Caribbean,4.892,Explained_by:_Generosity,0.078
+Georgia,Commonwealth of Independent States,4.891,Explained_by:_Generosity,0.032
+Algeria,Middle East and North Africa,4.887,Explained_by:_Generosity,0.144
+Ukraine,Commonwealth of Independent States,4.875,Explained_by:_Generosity,0.181
+Iraq,Middle East and North Africa,4.854,Explained_by:_Generosity,0.153
+Gabon,Sub-Saharan Africa,4.852,Explained_by:_Generosity,0.058
+Burkina Faso,Sub-Saharan Africa,4.834,Explained_by:_Generosity,0.182
+Cambodia,Southeast Asia,4.83,Explained_by:_Generosity,0.21
+Mozambique,Sub-Saharan Africa,4.794,Explained_by:_Generosity,0.228
+Nigeria,Sub-Saharan Africa,4.759,Explained_by:_Generosity,0.212
+Mali,Sub-Saharan Africa,4.723,Explained_by:_Generosity,0.164
+Iran,Middle East and North Africa,4.721,Explained_by:_Generosity,0.33
+Uganda,Sub-Saharan Africa,4.636,Explained_by:_Generosity,0.267
+Liberia,Sub-Saharan Africa,4.625,Explained_by:_Generosity,0.221
+Kenya,Sub-Saharan Africa,4.607,Explained_by:_Generosity,0.375
+Tunisia,Middle East and North Africa,4.596,Explained_by:_Generosity,0.057
+Lebanon,Middle East and North Africa,4.584,Explained_by:_Generosity,0.14
+Namibia,Sub-Saharan Africa,4.574,Explained_by:_Generosity,0.091
+Palestinian Territories,Middle East and North Africa,4.517,Explained_by:_Generosity,0.082
+Myanmar,Southeast Asia,4.426,Explained_by:_Generosity,0.52
+Jordan,Middle East and North Africa,4.395,Explained_by:_Generosity,0.079
+Chad,Sub-Saharan Africa,4.355,Explained_by:_Generosity,0.215
+Sri Lanka,South Asia,4.325,Explained_by:_Generosity,0.239
+Swaziland,Sub-Saharan Africa,4.308,Explained_by:_Generosity,0.067
+Comoros,Sub-Saharan Africa,4.289,Explained_by:_Generosity,0.241
+Egypt,Middle East and North Africa,4.283,Explained_by:_Generosity,0.069
+Ethiopia,Sub-Saharan Africa,4.275,Explained_by:_Generosity,0.241
+Mauritania,Sub-Saharan Africa,4.227,Explained_by:_Generosity,0.119
+Madagascar,Sub-Saharan Africa,4.208,Explained_by:_Generosity,0.185
+Togo,Sub-Saharan Africa,4.107,Explained_by:_Generosity,0.209
+Zambia,Sub-Saharan Africa,4.073,Explained_by:_Generosity,0.227
+Sierra Leone,Sub-Saharan Africa,3.849,Explained_by:_Generosity,0.243
+India,South Asia,3.819,Explained_by:_Generosity,0.246
+Burundi,Sub-Saharan Africa,3.775,Explained_by:_Generosity,0.172
+Yemen,Middle East and North Africa,3.658,Explained_by:_Generosity,0.092
+Tanzania,Sub-Saharan Africa,3.623,Explained_by:_Generosity,0.307
+Haiti,Latin America and Caribbean,3.615,Explained_by:_Generosity,0.463
+Malawi,Sub-Saharan Africa,3.6,Explained_by:_Generosity,0.213
+Lesotho,Sub-Saharan Africa,3.512,Explained_by:_Generosity,0.103
+Botswana,Sub-Saharan Africa,3.467,Explained_by:_Generosity,0.027
+Rwanda,Sub-Saharan Africa,3.415,Explained_by:_Generosity,0.227
+Zimbabwe,Sub-Saharan Africa,3.145,Explained_by:_Generosity,0.157
+Afghanistan,South Asia,2.523,Explained_by:_Generosity,0.122
+Finland,Western Europe,7.842,Explained_by:_Perceptions_of_corruption,0.481
+Denmark,Western Europe,7.62,Explained_by:_Perceptions_of_corruption,0.485
+Switzerland,Western Europe,7.571,Explained_by:_Perceptions_of_corruption,0.413
+Iceland,Western Europe,7.554,Explained_by:_Perceptions_of_corruption,0.17
+Netherlands,Western Europe,7.464,Explained_by:_Perceptions_of_corruption,0.384
+Norway,Western Europe,7.392,Explained_by:_Perceptions_of_corruption,0.427
+Sweden,Western Europe,7.363,Explained_by:_Perceptions_of_corruption,0.448
+Luxembourg,Western Europe,7.324,Explained_by:_Perceptions_of_corruption,0.353
+New Zealand,North America and ANZ,7.277,Explained_by:_Perceptions_of_corruption,0.445
+Austria,Western Europe,7.268,Explained_by:_Perceptions_of_corruption,0.292
+Australia,North America and ANZ,7.183,Explained_by:_Perceptions_of_corruption,0.317
+Israel,Middle East and North Africa,7.157,Explained_by:_Perceptions_of_corruption,0.119
+Germany,Western Europe,7.155,Explained_by:_Perceptions_of_corruption,0.306
+Canada,North America and ANZ,7.103,Explained_by:_Perceptions_of_corruption,0.335
+Ireland,Western Europe,7.085,Explained_by:_Perceptions_of_corruption,0.367
+Costa Rica,Latin America and Caribbean,7.069,Explained_by:_Perceptions_of_corruption,0.083
+United Kingdom,Western Europe,7.064,Explained_by:_Perceptions_of_corruption,0.306
+Czechia,Central and Eastern Europe,6.965,Explained_by:_Perceptions_of_corruption,0.046
+United States of America,North America and ANZ,6.951,Explained_by:_Perceptions_of_corruption,0.154
+Belgium,Western Europe,6.834,Explained_by:_Perceptions_of_corruption,0.187
+France,Western Europe,6.69,Explained_by:_Perceptions_of_corruption,0.235
+Bahrain,Middle East and North Africa,6.647,Explained_by:_Perceptions_of_corruption,0.139
+Malta,Western Europe,6.602,Explained_by:_Perceptions_of_corruption,0.183
+Taiwan,East Asia,6.584,Explained_by:_Perceptions_of_corruption,0.139
+United Arab Emirates,Middle East and North Africa,6.561,Explained_by:_Perceptions_of_corruption,0.223
+Saudi Arabia,Middle East and North Africa,6.494,Explained_by:_Perceptions_of_corruption,0.163
+Spain,Western Europe,6.491,Explained_by:_Perceptions_of_corruption,0.124
+Italy,Western Europe,6.483,Explained_by:_Perceptions_of_corruption,0.047
+Slovenia,Central and Eastern Europe,6.461,Explained_by:_Perceptions_of_corruption,0.085
+Guatemala,Latin America and Caribbean,6.435,Explained_by:_Perceptions_of_corruption,0.105
+Uruguay,Latin America and Caribbean,6.431,Explained_by:_Perceptions_of_corruption,0.223
+Singapore,Southeast Asia,6.377,Explained_by:_Perceptions_of_corruption,0.547
+Kosovo,Central and Eastern Europe,6.372,Explained_by:_Perceptions_of_corruption,0.014
+Slovakia,Central and Eastern Europe,6.331,Explained_by:_Perceptions_of_corruption,0.018
+Brazil,Latin America and Caribbean,6.33,Explained_by:_Perceptions_of_corruption,0.117
+Mexico,Latin America and Caribbean,6.317,Explained_by:_Perceptions_of_corruption,0.089
+Jamaica,Latin America and Caribbean,6.309,Explained_by:_Perceptions_of_corruption,0.035
+Lithuania,Central and Eastern Europe,6.255,Explained_by:_Perceptions_of_corruption,0.073
+Cyprus,Western Europe,6.223,Explained_by:_Perceptions_of_corruption,0.061
+Estonia,Central and Eastern Europe,6.189,Explained_by:_Perceptions_of_corruption,0.263
+Panama,Latin America and Caribbean,6.18,Explained_by:_Perceptions_of_corruption,0.053
+Uzbekistan,Commonwealth of Independent States,6.179,Explained_by:_Perceptions_of_corruption,0.271
+Chile,Latin America and Caribbean,6.172,Explained_by:_Perceptions_of_corruption,0.07
+Poland,Central and Eastern Europe,6.166,Explained_by:_Perceptions_of_corruption,0.13
+Kazakhstan,Commonwealth of Independent States,6.152,Explained_by:_Perceptions_of_corruption,0.132
+Romania,Central and Eastern Europe,6.14,Explained_by:_Perceptions_of_corruption,0.001
+Kuwait,Middle East and North Africa,6.106,Explained_by:_Perceptions_of_corruption,0.13
+Serbia,Central and Eastern Europe,6.078,Explained_by:_Perceptions_of_corruption,0.066
+El Salvador,Latin America and Caribbean,6.061,Explained_by:_Perceptions_of_corruption,0.16
+Mauritius,Sub-Saharan Africa,6.049,Explained_by:_Perceptions_of_corruption,0.096
+Latvia,Central and Eastern Europe,6.032,Explained_by:_Perceptions_of_corruption,0.089
+Colombia,Latin America and Caribbean,6.012,Explained_by:_Perceptions_of_corruption,0.063
+Hungary,Central and Eastern Europe,5.992,Explained_by:_Perceptions_of_corruption,0.04
+Thailand,Southeast Asia,5.985,Explained_by:_Perceptions_of_corruption,0.028
+Nicaragua,Latin America and Caribbean,5.972,Explained_by:_Perceptions_of_corruption,0.176
+Japan,East Asia,5.94,Explained_by:_Perceptions_of_corruption,0.192
+Argentina,Latin America and Caribbean,5.929,Explained_by:_Perceptions_of_corruption,0.067
+Portugal,Western Europe,5.929,Explained_by:_Perceptions_of_corruption,0.033
+Honduras,Latin America and Caribbean,5.919,Explained_by:_Perceptions_of_corruption,0.083
+Croatia,Central and Eastern Europe,5.882,Explained_by:_Perceptions_of_corruption,0.0
+Philippines,Southeast Asia,5.88,Explained_by:_Perceptions_of_corruption,0.126
+South Korea,East Asia,5.845,Explained_by:_Perceptions_of_corruption,0.135
+Peru,Latin America and Caribbean,5.84,Explained_by:_Perceptions_of_corruption,0.031
+Bosnia and Herz.,Central and Eastern Europe,5.813,Explained_by:_Perceptions_of_corruption,0.005
+Moldova,Commonwealth of Independent States,5.766,Explained_by:_Perceptions_of_corruption,0.013
+Ecuador,Latin America and Caribbean,5.764,Explained_by:_Perceptions_of_corruption,0.062
+Kyrgyzstan,Commonwealth of Independent States,5.744,Explained_by:_Perceptions_of_corruption,0.02
+Greece,Western Europe,5.723,Explained_by:_Perceptions_of_corruption,0.074
+Bolivia,Latin America and Caribbean,5.716,Explained_by:_Perceptions_of_corruption,0.064
+Mongolia,East Asia,5.677,Explained_by:_Perceptions_of_corruption,0.053
+Paraguay,Latin America and Caribbean,5.653,Explained_by:_Perceptions_of_corruption,0.037
+Montenegro,Central and Eastern Europe,5.581,Explained_by:_Perceptions_of_corruption,0.081
+Dominican Rep.,Latin America and Caribbean,5.545,Explained_by:_Perceptions_of_corruption,0.144
+N. Cyprus,Western Europe,5.536,Explained_by:_Perceptions_of_corruption,0.2
+Belarus,Commonwealth of Independent States,5.534,Explained_by:_Perceptions_of_corruption,0.199
+Russia,Commonwealth of Independent States,5.477,Explained_by:_Perceptions_of_corruption,0.06
+Hong Kong S.A.R. of China,East Asia,5.477,Explained_by:_Perceptions_of_corruption,0.342
+Tajikistan,Commonwealth of Independent States,5.466,Explained_by:_Perceptions_of_corruption,0.247
+Vietnam,Southeast Asia,5.411,Explained_by:_Perceptions_of_corruption,0.091
+Libya,Middle East and North Africa,5.41,Explained_by:_Perceptions_of_corruption,0.174
+Malaysia,Southeast Asia,5.384,Explained_by:_Perceptions_of_corruption,0.064
+Indonesia,Southeast Asia,5.345,Explained_by:_Perceptions_of_corruption,0.046
+Congo,Sub-Saharan Africa,5.342,Explained_by:_Perceptions_of_corruption,0.124
+China,East Asia,5.339,Explained_by:_Perceptions_of_corruption,0.117
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Explained_by:_Perceptions_of_corruption,0.092
+Armenia,Commonwealth of Independent States,5.283,Explained_by:_Perceptions_of_corruption,0.198
+Nepal,South Asia,5.269,Explained_by:_Perceptions_of_corruption,0.135
+Bulgaria,Central and Eastern Europe,5.266,Explained_by:_Perceptions_of_corruption,0.005
+Maldives,South Asia,5.198,Explained_by:_Perceptions_of_corruption,0.073
+Azerbaijan,Commonwealth of Independent States,5.171,Explained_by:_Perceptions_of_corruption,0.276
+Cameroon,Sub-Saharan Africa,5.142,Explained_by:_Perceptions_of_corruption,0.058
+Senegal,Sub-Saharan Africa,5.132,Explained_by:_Perceptions_of_corruption,0.088
+Albania,Central and Eastern Europe,5.117,Explained_by:_Perceptions_of_corruption,0.024
+North Macedonia,Central and Eastern Europe,5.101,Explained_by:_Perceptions_of_corruption,0.022
+Ghana,Sub-Saharan Africa,5.088,Explained_by:_Perceptions_of_corruption,0.058
+Niger,Sub-Saharan Africa,5.074,Explained_by:_Perceptions_of_corruption,0.157
+Turkmenistan,Commonwealth of Independent States,5.066,Explained_by:_Perceptions_of_corruption,0.033
+Gambia,Sub-Saharan Africa,5.051,Explained_by:_Perceptions_of_corruption,0.123
+Benin,Sub-Saharan Africa,5.045,Explained_by:_Perceptions_of_corruption,0.178
+Laos,Southeast Asia,5.03,Explained_by:_Perceptions_of_corruption,0.179
+Bangladesh,South Asia,5.025,Explained_by:_Perceptions_of_corruption,0.164
+Guinea,Sub-Saharan Africa,4.984,Explained_by:_Perceptions_of_corruption,0.111
+South Africa,Sub-Saharan Africa,4.956,Explained_by:_Perceptions_of_corruption,0.051
+Turkey,Middle East and North Africa,4.948,Explained_by:_Perceptions_of_corruption,0.104
+Pakistan,South Asia,4.934,Explained_by:_Perceptions_of_corruption,0.097
+Morocco,Middle East and North Africa,4.918,Explained_by:_Perceptions_of_corruption,0.088
+Venezuela,Latin America and Caribbean,4.892,Explained_by:_Perceptions_of_corruption,0.072
+Georgia,Commonwealth of Independent States,4.891,Explained_by:_Perceptions_of_corruption,0.181
+Algeria,Middle East and North Africa,4.887,Explained_by:_Perceptions_of_corruption,0.12
+Ukraine,Commonwealth of Independent States,4.875,Explained_by:_Perceptions_of_corruption,0.01
+Iraq,Middle East and North Africa,4.854,Explained_by:_Perceptions_of_corruption,0.041
+Gabon,Sub-Saharan Africa,4.852,Explained_by:_Perceptions_of_corruption,0.064
+Burkina Faso,Sub-Saharan Africa,4.834,Explained_by:_Perceptions_of_corruption,0.122
+Cambodia,Southeast Asia,4.83,Explained_by:_Perceptions_of_corruption,0.061
+Mozambique,Sub-Saharan Africa,4.794,Explained_by:_Perceptions_of_corruption,0.163
+Nigeria,Sub-Saharan Africa,4.759,Explained_by:_Perceptions_of_corruption,0.039
+Mali,Sub-Saharan Africa,4.723,Explained_by:_Perceptions_of_corruption,0.072
+Iran,Middle East and North Africa,4.721,Explained_by:_Perceptions_of_corruption,0.144
+Uganda,Sub-Saharan Africa,4.636,Explained_by:_Perceptions_of_corruption,0.054
+Liberia,Sub-Saharan Africa,4.625,Explained_by:_Perceptions_of_corruption,0.057
+Kenya,Sub-Saharan Africa,4.607,Explained_by:_Perceptions_of_corruption,0.073
+Tunisia,Middle East and North Africa,4.596,Explained_by:_Perceptions_of_corruption,0.044
+Lebanon,Middle East and North Africa,4.584,Explained_by:_Perceptions_of_corruption,0.026
+Namibia,Sub-Saharan Africa,4.574,Explained_by:_Perceptions_of_corruption,0.059
+Palestinian Territories,Middle East and North Africa,4.517,Explained_by:_Perceptions_of_corruption,0.075
+Myanmar,Southeast Asia,4.426,Explained_by:_Perceptions_of_corruption,0.178
+Jordan,Middle East and North Africa,4.395,Explained_by:_Perceptions_of_corruption,0.15
+Chad,Sub-Saharan Africa,4.355,Explained_by:_Perceptions_of_corruption,0.084
+Sri Lanka,South Asia,4.325,Explained_by:_Perceptions_of_corruption,0.049
+Swaziland,Sub-Saharan Africa,4.308,Explained_by:_Perceptions_of_corruption,0.147
+Comoros,Sub-Saharan Africa,4.289,Explained_by:_Perceptions_of_corruption,0.101
+Egypt,Middle East and North Africa,4.283,Explained_by:_Perceptions_of_corruption,0.092
+Ethiopia,Sub-Saharan Africa,4.275,Explained_by:_Perceptions_of_corruption,0.114
+Mauritania,Sub-Saharan Africa,4.227,Explained_by:_Perceptions_of_corruption,0.133
+Madagascar,Sub-Saharan Africa,4.208,Explained_by:_Perceptions_of_corruption,0.087
+Togo,Sub-Saharan Africa,4.107,Explained_by:_Perceptions_of_corruption,0.107
+Zambia,Sub-Saharan Africa,4.073,Explained_by:_Perceptions_of_corruption,0.074
+Sierra Leone,Sub-Saharan Africa,3.849,Explained_by:_Perceptions_of_corruption,0.047
+India,South Asia,3.819,Explained_by:_Perceptions_of_corruption,0.106
+Burundi,Sub-Saharan Africa,3.775,Explained_by:_Perceptions_of_corruption,0.212
+Yemen,Middle East and North Africa,3.658,Explained_by:_Perceptions_of_corruption,0.089
+Tanzania,Sub-Saharan Africa,3.623,Explained_by:_Perceptions_of_corruption,0.231
+Haiti,Latin America and Caribbean,3.615,Explained_by:_Perceptions_of_corruption,0.139
+Malawi,Sub-Saharan Africa,3.6,Explained_by:_Perceptions_of_corruption,0.134
+Lesotho,Sub-Saharan Africa,3.512,Explained_by:_Perceptions_of_corruption,0.015
+Botswana,Sub-Saharan Africa,3.467,Explained_by:_Perceptions_of_corruption,0.088
+Rwanda,Sub-Saharan Africa,3.415,Explained_by:_Perceptions_of_corruption,0.493
+Zimbabwe,Sub-Saharan Africa,3.145,Explained_by:_Perceptions_of_corruption,0.075
+Afghanistan,South Asia,2.523,Explained_by:_Perceptions_of_corruption,0.01
+Finland,Western Europe,7.842,Dystopia_+_residual,3.253
+Denmark,Western Europe,7.62,Dystopia_+_residual,2.868
+Switzerland,Western Europe,7.571,Dystopia_+_residual,2.839
+Iceland,Western Europe,7.554,Dystopia_+_residual,2.967
+Netherlands,Western Europe,7.464,Dystopia_+_residual,2.798
+Norway,Western Europe,7.392,Dystopia_+_residual,2.58
+Sweden,Western Europe,7.363,Dystopia_+_residual,2.683
+Luxembourg,Western Europe,7.324,Dystopia_+_residual,2.653
+New Zealand,North America and ANZ,7.277,Dystopia_+_residual,2.612
+Austria,Western Europe,7.268,Dystopia_+_residual,2.784
+Australia,North America and ANZ,7.183,Dystopia_+_residual,2.598
+Israel,Middle East and North Africa,7.157,Dystopia_+_residual,3.083
+Germany,Western Europe,7.155,Dystopia_+_residual,2.824
+Canada,North America and ANZ,7.103,Dystopia_+_residual,2.585
+Ireland,Western Europe,7.085,Dystopia_+_residual,2.384
+Costa Rica,Latin America and Caribbean,7.069,Dystopia_+_residual,3.387
+United Kingdom,Western Europe,7.064,Dystopia_+_residual,2.596
+Czechia,Central and Eastern Europe,6.965,Dystopia_+_residual,3.124
+United States of America,North America and ANZ,6.951,Dystopia_+_residual,2.807
+Belgium,Western Europe,6.834,Dystopia_+_residual,2.862
+France,Western Europe,6.69,Dystopia_+_residual,2.521
+Bahrain,Middle East and North Africa,6.647,Dystopia_+_residual,2.631
+Malta,Western Europe,6.602,Dystopia_+_residual,2.268
+Taiwan,East Asia,6.584,Dystopia_+_residual,2.687
+United Arab Emirates,Middle East and North Africa,6.561,Dystopia_+_residual,2.422
+Saudi Arabia,Middle East and North Africa,6.494,Dystopia_+_residual,2.668
+Spain,Western Europe,6.491,Dystopia_+_residual,2.513
+Italy,Western Europe,6.483,Dystopia_+_residual,2.794
+Slovenia,Central and Eastern Europe,6.461,Dystopia_+_residual,2.388
+Guatemala,Latin America and Caribbean,6.435,Dystopia_+_residual,3.375
+Uruguay,Latin America and Caribbean,6.431,Dystopia_+_residual,2.6
+Singapore,Southeast Asia,6.377,Dystopia_+_residual,1.379
+Kosovo,Central and Eastern Europe,6.372,Dystopia_+_residual,3.182
+Slovakia,Central and Eastern Europe,6.331,Dystopia_+_residual,2.714
+Brazil,Latin America and Caribbean,6.33,Dystopia_+_residual,3.015
+Mexico,Latin America and Caribbean,6.317,Dystopia_+_residual,2.961
+Jamaica,Latin America and Caribbean,6.309,Dystopia_+_residual,3.135
+Lithuania,Central and Eastern Europe,6.255,Dystopia_+_residual,2.624
+Cyprus,Western Europe,6.223,Dystopia_+_residual,2.578
+Estonia,Central and Eastern Europe,6.189,Dystopia_+_residual,2.103
+Panama,Latin America and Caribbean,6.18,Dystopia_+_residual,2.509
+Uzbekistan,Commonwealth of Independent States,6.179,Dystopia_+_residual,2.477
+Chile,Latin America and Caribbean,6.172,Dystopia_+_residual,2.682
+Poland,Central and Eastern Europe,6.166,Dystopia_+_residual,2.438
+Kazakhstan,Commonwealth of Independent States,6.152,Dystopia_+_residual,2.446
+Romania,Central and Eastern Europe,6.14,Dystopia_+_residual,2.83
+Kuwait,Middle East and North Africa,6.106,Dystopia_+_residual,2.368
+Serbia,Central and Eastern Europe,6.078,Dystopia_+_residual,2.682
+El Salvador,Latin America and Caribbean,6.061,Dystopia_+_residual,3.085
+Mauritius,Sub-Saharan Africa,6.049,Dystopia_+_residual,2.462
+Latvia,Central and Eastern Europe,6.032,Dystopia_+_residual,2.536
+Colombia,Latin America and Caribbean,6.012,Dystopia_+_residual,2.794
+Hungary,Central and Eastern Europe,5.992,Dystopia_+_residual,2.432
+Thailand,Southeast Asia,5.985,Dystopia_+_residual,2.309
+Nicaragua,Latin America and Caribbean,5.972,Dystopia_+_residual,2.841
+Japan,East Asia,5.94,Dystopia_+_residual,2.048
+Argentina,Latin America and Caribbean,5.929,Dystopia_+_residual,2.461
+Portugal,Western Europe,5.929,Dystopia_+_residual,2.225
+Honduras,Latin America and Caribbean,5.919,Dystopia_+_residual,2.934
+Croatia,Central and Eastern Europe,5.882,Dystopia_+_residual,2.325
+Philippines,Southeast Asia,5.88,Dystopia_+_residual,2.872
+South Korea,East Asia,5.845,Dystopia_+_residual,2.262
+Peru,Latin America and Caribbean,5.84,Dystopia_+_residual,2.744
+Bosnia and Herz.,Central and Eastern Europe,5.813,Dystopia_+_residual,2.583
+Moldova,Commonwealth of Independent States,5.766,Dystopia_+_residual,2.665
+Ecuador,Latin America and Caribbean,5.764,Dystopia_+_residual,2.653
+Kyrgyzstan,Commonwealth of Independent States,5.744,Dystopia_+_residual,2.648
+Greece,Western Europe,5.723,Dystopia_+_residual,2.561
+Bolivia,Latin America and Caribbean,5.716,Dystopia_+_residual,2.805
+Mongolia,East Asia,5.677,Dystopia_+_residual,2.492
+Paraguay,Latin America and Caribbean,5.653,Dystopia_+_residual,2.306
+Montenegro,Central and Eastern Europe,5.581,Dystopia_+_residual,2.254
+Dominican Rep.,Latin America and Caribbean,5.545,Dystopia_+_residual,2.178
+N. Cyprus,Western Europe,5.536,Dystopia_+_residual,1.653
+Belarus,Commonwealth of Independent States,5.534,Dystopia_+_residual,2.247
+Russia,Commonwealth of Independent States,5.477,Dystopia_+_residual,2.148
+Hong Kong S.A.R. of China,East Asia,5.477,Dystopia_+_residual,1.236
+Tajikistan,Commonwealth of Independent States,5.466,Dystopia_+_residual,2.619
+Vietnam,Southeast Asia,5.411,Dystopia_+_residual,2.211
+Libya,Middle East and North Africa,5.41,Dystopia_+_residual,2.331
+Malaysia,Southeast Asia,5.384,Dystopia_+_residual,1.784
+Indonesia,Southeast Asia,5.345,Dystopia_+_residual,1.987
+Congo,Sub-Saharan Africa,5.342,Dystopia_+_residual,3.476
+China,East Asia,5.339,Dystopia_+_residual,1.982
+Côte d'Ivoire,Sub-Saharan Africa,5.306,Dystopia_+_residual,3.469
+Armenia,Commonwealth of Independent States,5.283,Dystopia_+_residual,2.127
+Nepal,South Asia,5.269,Dystopia_+_residual,2.642
+Bulgaria,Central and Eastern Europe,5.266,Dystopia_+_residual,1.823
+Maldives,South Asia,5.198,Dystopia_+_residual,1.52
+Azerbaijan,Commonwealth of Independent States,5.171,Dystopia_+_residual,1.919
+Cameroon,Sub-Saharan Africa,5.142,Dystopia_+_residual,3.195
+Senegal,Sub-Saharan Africa,5.132,Dystopia_+_residual,3.071
+Albania,Central and Eastern Europe,5.117,Dystopia_+_residual,2.25
+North Macedonia,Central and Eastern Europe,5.101,Dystopia_+_residual,2.042
+Ghana,Sub-Saharan Africa,5.088,Dystopia_+_residual,2.684
+Niger,Sub-Saharan Africa,5.074,Dystopia_+_residual,3.47
+Turkmenistan,Commonwealth of Independent States,5.066,Dystopia_+_residual,1.409
+Gambia,Sub-Saharan Africa,5.051,Dystopia_+_residual,2.99
+Benin,Sub-Saharan Africa,5.045,Dystopia_+_residual,3.482
+Laos,Southeast Asia,5.03,Dystopia_+_residual,2.204
+Bangladesh,South Asia,5.025,Dystopia_+_residual,2.427
+Guinea,Sub-Saharan Africa,4.984,Dystopia_+_residual,3.216
+South Africa,Sub-Saharan Africa,4.956,Dystopia_+_residual,2.187
+Turkey,Middle East and North Africa,4.948,Dystopia_+_residual,1.852
+Pakistan,South Asia,4.934,Dystopia_+_residual,2.784
+Morocco,Middle East and North Africa,4.918,Dystopia_+_residual,2.749
+Venezuela,Latin America and Caribbean,4.892,Dystopia_+_residual,2.135
+Georgia,Commonwealth of Independent States,4.891,Dystopia_+_residual,2.191
+Algeria,Middle East and North Africa,4.887,Dystopia_+_residual,2.242
+Ukraine,Commonwealth of Independent States,4.875,Dystopia_+_residual,1.813
+Iraq,Middle East and North Africa,4.854,Dystopia_+_residual,2.429
+Gabon,Sub-Saharan Africa,4.852,Dystopia_+_residual,2.201
+Burkina Faso,Sub-Saharan Africa,4.834,Dystopia_+_residual,3.133
+Cambodia,Southeast Asia,4.83,Dystopia_+_residual,2.148
+Mozambique,Sub-Saharan Africa,4.794,Dystopia_+_residual,2.783
+Nigeria,Sub-Saharan Africa,4.759,Dystopia_+_residual,2.736
+Mali,Sub-Saharan Africa,4.723,Dystopia_+_residual,3.016
+Iran,Middle East and North Africa,4.721,Dystopia_+_residual,1.823
+Uganda,Sub-Saharan Africa,4.636,Dystopia_+_residual,2.596
+Liberia,Sub-Saharan Africa,4.625,Dystopia_+_residual,2.857
+Kenya,Sub-Saharan Africa,4.607,Dystopia_+_residual,2.18
+Tunisia,Middle East and North Africa,4.596,Dystopia_+_residual,2.138
+Lebanon,Middle East and North Africa,4.584,Dystopia_+_residual,1.736
+Namibia,Sub-Saharan Africa,4.574,Dystopia_+_residual,2.068
+Palestinian Territories,Middle East and North Africa,4.517,Dystopia_+_residual,2.131
+Myanmar,Southeast Asia,4.426,Dystopia_+_residual,1.407
+Jordan,Middle East and North Africa,4.395,Dystopia_+_residual,1.553
+Chad,Sub-Saharan Africa,4.355,Dystopia_+_residual,3.209
+Sri Lanka,South Asia,4.325,Dystopia_+_residual,1.075
+Swaziland,Sub-Saharan Africa,4.308,Dystopia_+_residual,2.155
+Comoros,Sub-Saharan Africa,4.289,Dystopia_+_residual,2.61
+Egypt,Middle East and North Africa,4.283,Dystopia_+_residual,1.648
+Ethiopia,Sub-Saharan Africa,4.275,Dystopia_+_residual,2.089
+Mauritania,Sub-Saharan Africa,4.227,Dystopia_+_residual,2.069
+Madagascar,Sub-Saharan Africa,4.208,Dystopia_+_residual,2.62
+Togo,Sub-Saharan Africa,4.107,Dystopia_+_residual,2.806
+Zambia,Sub-Saharan Africa,4.073,Dystopia_+_residual,1.975
+Sierra Leone,Sub-Saharan Africa,3.849,Dystopia_+_residual,2.396
+India,South Asia,3.819,Dystopia_+_residual,1.405
+Burundi,Sub-Saharan Africa,3.775,Dystopia_+_residual,2.876
+Yemen,Middle East and North Africa,3.658,Dystopia_+_residual,1.776
+Tanzania,Sub-Saharan Africa,3.623,Dystopia_+_residual,1.263
+Haiti,Latin America and Caribbean,3.615,Dystopia_+_residual,2.06
+Malawi,Sub-Saharan Africa,3.6,Dystopia_+_residual,2.19
+Lesotho,Sub-Saharan Africa,3.512,Dystopia_+_residual,1.8
+Botswana,Sub-Saharan Africa,3.467,Dystopia_+_residual,0.648
+Rwanda,Sub-Saharan Africa,3.415,Dystopia_+_residual,1.095
+Zimbabwe,Sub-Saharan Africa,3.145,Dystopia_+_residual,1.205
+Afghanistan,South Asia,2.523,Dystopia_+_residual,1.895
