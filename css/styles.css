@@ -1,0 +1,42 @@
+/* Colour Palette: https://colorhunt.co/palette/d9d7f1fffddee7fbbeffcbcb */
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.vis-container {
+    width: 100%;
+    margin: auto;
+}
+
+.main {
+    background-color: #FFFDDE;
+}
+
+.page {
+    width: 1280px;
+    /* width: 1920px; */
+    background-color: #FFFDDE;
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+}
+
+.description-right {
+    margin-left: 20px;
+}
+
+.description-left {
+    margin-right: 20px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-color: #FFCBCB;
+}
