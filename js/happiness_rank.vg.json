@@ -1,0 +1,111 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report.csv",
+    "format": { "type": "csv" }
+  },
+  "config": {
+    "title": {
+      "fontSize": 24
+    }
+  },
+  "params": [
+    {
+      "name": "top_n_countries",
+      "value": 5,
+      "bind": {
+        "input": "range",
+        "min": 5,
+        "max": 10,
+        "step": 1,
+        "name": "Top N Countries: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "Life Ladder",
+          "order": "descending"
+        }
+      ],
+      "groupby": ["year"]
+    },
+    {
+      "filter": "datum.rank <= top_n_countries"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "type": "ordinal",
+      "field": "year",
+      "title": "Year"
+    },
+    "y": {
+      "type": "ordinal",
+      "field": "rank",
+      "title": "Rankings",
+      "sort": "ascending"
+    },
+    "color": {
+      "field": "Country name",
+      "type": "nominal",
+      "scale": {
+        "scheme": "tableau20"
+      }
+    },
+    "opacity": {
+      "condition": {
+        "param": "regional_highlight",
+        "value": 0.6
+      },
+      "value": 0.15
+    }
+  },
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "regional_highlight",
+          "select": {
+            "type": "point",
+            "fields": ["Country name"]
+          },
+          "bind": "legend"
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 100
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Country name",
+            "type": "nominal"
+          },
+          {
+            "field": "Life Ladder",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone"
+      }
+    }
+  ]
+}

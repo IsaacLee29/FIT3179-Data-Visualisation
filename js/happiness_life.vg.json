@@ -1,0 +1,152 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-new.csv",
+    "format": { "type": "csv" }
+  },
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    },
+    "title": {
+      "fontSize": 24
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "Healthy_life_expectancy",
+      "type": "quantitative",
+      "title": "Life Expectancy",
+      "axis": {
+        "grid": false,
+        "tickCount": 10
+      }
+    },
+    "y": {
+      "field": "Ladder_score",
+      "type": "quantitative",
+      "title": "Happiness Score",
+      "axis": {
+        "grid": false,
+        "tickCount": 10
+      }
+    },
+    "opacity": {
+      "condition": {
+        "param": "regional_highlight",
+        "value": 0.6
+      },
+      "value": 0.1
+    }
+  },
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "regional_highlight",
+          "select": {
+            "type": "point",
+            "fields": ["Regional_indicator"]
+          },
+          "bind": "legend"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 60
+      },
+      "encoding": {
+        "color": {
+          "field": "Regional_indicator",
+          "type": "nominal",
+          "scale": {
+            "range": [
+              "#1170aa",
+              "#59a14f",
+              "#9467bd",
+              "#a65628",
+              "#ff7f00",
+              "#f1ce63",
+              "#57606c",
+              "#b6992d",
+              "#17becf",
+              "#ff9d9a"
+            ]
+          },
+          "title": "Regions"
+        },
+        "tooltip": [
+          {
+            "field": "Country_name",
+            "type": "nominal",
+            "title": "Country Name"
+          },
+          {
+            "field": "Regional_indicator",
+            "type": "nominal",
+            "title": "Regions"
+          },
+          {
+            "field": "Ladder_score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "Healthy_life_expectancy",
+            "type": "quantitative",
+            "title": "Life Expectancy"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "black"
+      },
+      "transform": [
+        {
+          "regression": "Healthy_life_expectancy",
+          "on": "Ladder_score"
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Healthy_life_expectancy",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Ladder_score",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "line-bottom",
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "value": "Finland has the highest happiness score in 2021"
+        },
+        "color": {
+          "value": "black"
+        },
+        "opacity": {
+          "condition": {
+            "test": "datum['Country_name'] == 'Finland'",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    }
+  ]
+}

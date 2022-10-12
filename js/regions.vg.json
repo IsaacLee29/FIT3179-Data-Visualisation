@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 500,
+  "config": {
+    "title": {
+      "fontSize": 24
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-new.csv",
+    "format": { "type": "csv" }
+  },
+  "encoding": {
+    "color": {
+      "type": "nominal",
+      "field": "Regional_indicator"
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect"
+      },
+      "encoding": {
+        "x": {
+          "field": "Ladder_score",
+          "aggregate": "max"
+        },
+        "x2": {
+          "field": "Ladder_score",
+          "aggregate": "min"
+        },
+        "y": {
+          "type": "nominal",
+          "field": "Regional_indicator"
+        },
+        "opacity": {
+          "value": 0.2
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "average",
+              "field": "Ladder_score",
+              "as": "region_avg_ladder_score"
+            }
+          ],
+          "groupby": ["Regional_indicator"]
+        }
+      ],
+      "mark": {
+        "type": "tick",
+        "thickness": 3,
+        "height": 50
+      },
+      "encoding": {
+        "x": {
+          "type": "quantitative",
+          "field": "region_avg_ladder_score"
+        },
+        "y": {
+          "type": "nominal",
+          "field": "Regional_indicator",
+          "axis": {
+            "grid": false
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Regional_indicator",
+            "type": "nominal"
+          },
+          {
+            "field": "region_avg_ladder_score",
+            "type": "nominal",
+            "title": "Regional Average Happiness Score",
+            "format": ".3s"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "average",
+              "field": "Ladder_score",
+              "as": "global_avg_ladder_score"
+            }
+          ]
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "strokeWidth": {
+          "expr": "1.5"
+        },
+        "strokeDash": {
+          "expr": "[2,2]"
+        }
+      },
+      "encoding": {
+        "x": {
+          "type": "quantitative",
+          "field": "global_avg_ladder_score"
+        },
+        "color": {
+          "value": "black"
+        },
+        "tooltip": [
+          {
+            "field": "global_avg_ladder_score",
+            "type": "nominal",
+            "title": "Global Average Happiness Score",
+            "format": ".3s"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 50
+      },
+      "encoding": {
+        "x": {
+          "type": "quantitative",
+          "field": "Ladder_score",
+          "title": "Happiness Score",
+          "axis": {
+            "grid": false
+          }
+        },
+        "y": {
+          "type": "nominal",
+          "field": "Regional_indicator",
+          "title": "Regions",
+          "axis": {
+            "grid": false
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Country_name",
+            "type": "nominal"
+          },
+          {
+            "field": "Ladder_score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          }
+        ]
+      }
+    }
+  ]
+}
