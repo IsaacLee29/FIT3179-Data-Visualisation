@@ -97,15 +97,18 @@
         "tooltip": [
           {
             "field": "Country_name",
-            "type": "nominal"
+            "type": "nominal",
+            "title": "Country"
           },
           {
             "field": "Factor_score",
-            "type": "quantitative"
+            "type": "quantitative",
+            "title": "Factor"
           },
           {
             "field": "Factors",
-            "type": "nominal"
+            "type": "nominal",
+            "title": "Factor Contribution Score"
           }
         ]
       }
