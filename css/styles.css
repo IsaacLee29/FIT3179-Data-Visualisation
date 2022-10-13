@@ -40,3 +40,38 @@ h1 {
     margin-bottom: 50px;
     background-color: #FFCBCB;
 }
+
+#gdp {
+    color: #AB8FDA;
+}
+
+#social {
+    color: #87C1F5;
+}
+
+#health {
+    color: #80D5BE;
+}
+
+#freedom {
+    color: #F89D81;
+}
+
+#generosity {
+    color: #F9C62B;
+}
+#corruption {
+    color: #8CC540;
+}
+
+#dystopia {
+    color: #5993B6;
+}
+
+#north-america {
+    color: #8CC540;
+}
+
+#south-asia {
+    color: #5993B6;
+}
