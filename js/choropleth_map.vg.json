@@ -1,12 +1,58 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
-  "height": 500,
+  "width": 1100,
+  "height": 600,
   "config": {
+    "font": "Roboto",
     "title": {
       "fontSize": 24
+    },
+    "axis": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto"
+    },
+    "legend": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 14
     }
   },
+  "params": [
+    {
+      "name": "regional_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Central and Eastern Europe",
+          "Commonwealth of Independent States",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+        ],
+        "labels": [
+          "Show All",
+          "Central and Eastern Europe",
+          "Commonwealth of Independent States",
+          "East Asia",
+          "Latin America and Caribbean",
+          "Middle East and North Africa",
+          "North America and ANZ",
+          "South Asia",
+          "Southeast Asia",
+          "Sub-Saharan Africa",
+          "Western Europe"
+        ],
+        "name": "Regional Selection: "
+      }
+    }
+  ],
   "projection": { "type": "equalEarth" },
   "data": {
     "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/ne_110m.json",
@@ -38,6 +84,9 @@
       "mark": { "type": "geoshape", "fill": null, "stroke": "lightgray" }
     },
     {
+      "params": [
+        {"name": "country_highlight", "select": {"type": "point", "on": "mouseover"}}
+      ],
       "transform": [
         {
           "lookup": "properties.NAME",
@@ -46,21 +95,23 @@
               "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-new.csv",
               "format": { "type": "csv" }
             },
-            "key": "Country_name",
-            "fields": ["Ladder_score"]
+            "key": "Country Name",
+            "fields": ["Country Name", "Ladder Score", "Regional Indicator"]
           }
+        },
+        {
+          "filter": "regional_selection == null || datum['Regional Indicator'] == regional_selection"
         }
       ],
       "mark": { "type": "geoshape", "stroke": "white" },
       "encoding": {
         "color": {
-          "field": "Ladder_score",
+          "field": "Ladder Score",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [0, 3, 4, 5, 6, 7],
+            "domain": [3, 4, 5, 6, 7],
             "range": [
-              "lightgray",
               "#fef0d9",
               "#fdd49e",
               "#fdbb84",
@@ -69,16 +120,71 @@
               "#b30000"
             ]
           },
-          "title": "Ladder Score"
+          "title": ["Happiness", "Score"]
+        },
+        "strokeWidth": {
+          "condition": [{"param": "country_highlight", "empty": false, "value": 2}],
+          "value": 0.3
+        },
+        "opacity": {
+          "condition": {"param": "country_highlight", "value": 1},
+          "value": 0.3
         },
         "tooltip": [
           {
             "field": "properties.NAME",
             "type": "nominal",
-            "title": "Country name"
+            "title": "Country"
           },
-          { "field": "Ladder_score", "type": "quantitative" }
+          {
+            "field": "Regional Indicator",
+            "type": "nominal",
+            "title": "Country Region"
+          },
+          {
+            "field": "Ladder Score",
+            "type": "quantitative",
+            "title": "Happiness Score",
+            "format": ".3s"
+          }
         ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-new.csv",
+        "format": { "type": "csv" }
+      },
+      "transform": [
+        {
+          "filter": "regional_selection == null || datum['Regional Indicator'] == regional_selection"
+        },
+        {
+          "window": [{"op": "rank", "as": "ranking"}],
+          "sort": [{"field": "Ladder Score", "order": "descending"}]
+        },
+        {"filter": "datum.ranking == 1"},
+        {
+          "calculate": "'Happiest Country in ' + datum['Regional Indicator'] + ' is ' + datum['Country Name']",
+          "as": "Happiest"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 24,
+        "dx": 0,
+        "dy": -285,
+        "fontStyle": "italic",
+        "font": "Roboto"
+      },
+      "encoding": {
+        "text": {
+          "field": "Happiest"
+        },
+        "opacity": {
+          "condition": {"param": "country_highlight", "value": 1},
+          "value": 0.3
+        }
       }
     }
   ]

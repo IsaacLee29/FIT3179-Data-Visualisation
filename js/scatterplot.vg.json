@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
+  "width": "container",
   "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-new.csv",
@@ -12,13 +12,26 @@
         "stroke": "transparent"
       }
     },
+    "font": "Roboto",
     "title": {
       "fontSize": 24
+    },
+    "axis": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "legend": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 14
     }
   },
   "encoding": {
     "x": {
-      "field": "Healthy_life_expectancy",
+      "field": "Healthy Life Expectancy",
       "type": "quantitative",
       "title": "Life Expectancy",
       "axis": {
@@ -27,7 +40,7 @@
       }
     },
     "y": {
-      "field": "Ladder_score",
+      "field": "Ladder Score",
       "type": "quantitative",
       "title": "Happiness Score",
       "axis": {
@@ -50,7 +63,7 @@
           "name": "regional_highlight",
           "select": {
             "type": "point",
-            "fields": ["Regional_indicator"]
+            "fields": ["Regional Indicator"]
           },
           "bind": "legend"
         }
@@ -61,7 +74,7 @@
       },
       "encoding": {
         "color": {
-          "field": "Regional_indicator",
+          "field": "Regional Indicator",
           "type": "nominal",
           "scale": {
             "range": [
@@ -81,22 +94,22 @@
         },
         "tooltip": [
           {
-            "field": "Country_name",
+            "field": "Country Name",
             "type": "nominal",
-            "title": "Country Name"
+            "title": "Country"
           },
           {
-            "field": "Regional_indicator",
+            "field": "Regional Indicator",
             "type": "nominal",
-            "title": "Regions"
+            "title": "Country Region"
           },
           {
-            "field": "Ladder_score",
+            "field": "Ladder Score",
             "type": "quantitative",
             "title": "Happiness Score"
           },
           {
-            "field": "Healthy_life_expectancy",
+            "field": "Healthy Life Expectancy",
             "type": "quantitative",
             "title": "Life Expectancy"
           }
@@ -106,21 +119,21 @@
     {
       "mark": {
         "type": "line",
-        "color": "black"
+        "color": "red"
       },
       "transform": [
         {
-          "regression": "Healthy_life_expectancy",
-          "on": "Ladder_score"
+          "regression": "Healthy Life Expectancy",
+          "on": "Ladder Score"
         }
       ],
       "encoding": {
         "x": {
-          "field": "Healthy_life_expectancy",
+          "field": "Healthy Life Expectancy",
           "type": "quantitative"
         },
         "y": {
-          "field": "Ladder_score",
+          "field": "Ladder Score",
           "type": "quantitative"
         }
       }
@@ -130,7 +143,9 @@
         "type": "text",
         "align": "right",
         "baseline": "line-bottom",
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "font": "Roboto",
+        "fontSize": 18
       },
       "encoding": {
         "text": {
@@ -141,7 +156,7 @@
         },
         "opacity": {
           "condition": {
-            "test": "datum['Country_name'] == 'Finland'",
+            "test": "datum['Country Name'] == 'Finland'",
             "value": 1
           },
           "value": 0

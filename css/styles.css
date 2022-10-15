@@ -1,12 +1,12 @@
 /* Colour Palette: https://colorhunt.co/palette/d9d7f1fffddee7fbbeffcbcb */
 
-p {
+body {
     font-family: 'Roboto', sans-serif;
 }
 
-h1 {
-    font-family: 'Roboto', sans-serif;
-}
+/* p {
+    font-size: 100;
+} */
 
 .vis-container {
     width: 100%;
@@ -15,6 +15,10 @@ h1 {
 
 .main {
     background-color: #FFFDDE;
+}
+
+.main-title {
+    font-size: xx-large;
 }
 
 .page {
@@ -28,10 +32,20 @@ h1 {
 
 .description-right {
     margin-left: 20px;
+    margin-right: 20px;
+    font-size: larger;
 }
 
 .description-left {
     margin-right: 20px;
+    margin-left: 20px;
+    font-size: larger;
+}
+
+.description-centre {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: larger;
 }
 
 .title {
@@ -41,7 +55,11 @@ h1 {
     background-color: #FFCBCB;
 }
 
-#gdp {
+#tip {
+    color: grey;
+}
+
+/* #gdp {
     color: #AB8FDA;
 }
 
@@ -74,4 +92,59 @@ h1 {
 
 #south-asia {
     color: #5993B6;
+} */
+
+#c1 {
+    color: #AB8FDA;
 }
+
+#c2 {
+    color: #87C1F5;
+}
+
+#c3 {
+    color: #80D5BE;
+}
+
+#c4 {
+    color: #F89D81;
+}
+
+#c5 {
+    color: #F9C62B;
+}
+
+#c6 {
+    color: #8CC540;
+}
+
+#c7 {
+    color: #5993B6;
+}
+
+#c8 {
+    color: #9B9FA7;
+}
+
+#c9 {
+    color: #515966;
+}
+
+#c10 {
+    color: #A6816A;
+}
+
+#c11 {
+    color: red;
+}
+
+/* .container {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 520px;
+    height: 350px;
+    background: white;
+    box-shadow: 5px 5px 15px rgba(grey, .5);
+    border-radius: 10px;
+} */

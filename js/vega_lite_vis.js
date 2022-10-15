@@ -1,24 +1,29 @@
 var spec1 = "js/choropleth_map.vg.json";
-vegaEmbed("#choropleth-map", spec1)
+vegaEmbed("#choropleth-map", spec1, {"actions": false})
   .then(function (result) {})
   .catch(console.error);
 
-var spec2 = "js/happiness_life.vg.json";
-vegaEmbed("#scatterplot", spec2)
+var spec2 = "js/scatterplot.vg.json";
+vegaEmbed("#scatterplot", spec2, {"actions": false})
   .then(function (result) {})
   .catch(console.error);
 
-var spec3 = "js/regions.vg.json";
-vegaEmbed("#regions", spec3)
+var spec3 = "js/boxplot.vg.json";
+vegaEmbed("#boxplot", spec3, {"actions": false})
   .then(function (result) {})
   .catch(console.error);
 
-var spec4 = "js/stacked.vg.json";
-vegaEmbed("#stacked", spec4)
+var spec4 = "js/stacked_bar_chart.vg.json";
+vegaEmbed("#stacked-bar-chart", spec4, {"actions": false})
   .then(function (result) {})
   .catch(console.error);
 
-var spec5 = "js/happiness_rank.vg.json";
-vegaEmbed("#ranked", spec5)
+var spec5 = "js/bump_chart.vg.json";
+vegaEmbed("#bump-chart", spec5, {"actions": false})
+  .then(function (result) {})
+  .catch(console.error);
+
+var spec6 = "js/lollipop_chart.vg.json";
+vegaEmbed("#lollipop-chart", spec6, {"actions": false})
   .then(function (result) {})
   .catch(console.error);

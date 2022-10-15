@@ -1,0 +1,97 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 500,
+  "config": {
+    "font": "Roboto",
+    "title": {
+      "fontSize": 24
+    },
+    "axis": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "legend": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-new.csv",
+    "format": { "type": "csv" }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "boxplot",
+        "extent": "min-max",
+        "size": 30
+      },
+      "encoding": {
+        "x": {
+          "field": "Ladder Score",
+          "type": "quantitative",
+          "title": "Happiness Score"
+        },
+        "y": {
+          "field": "Regional Indicator",
+          "type": "nominal",
+          "title": "Region"
+        },
+        "color": {
+          "type": "nominal",
+          "field": "Regional Indicator",
+          "scale": {
+            "range": [
+              "#AB8FDA",
+              "#87C1F5",
+              "#80D5BE",
+              "#F89D81",
+              "#F9C62B",
+              "#8CC540",
+              "#5993B6",
+              "#9B9FA7",
+              "#515966",
+              "#A6816A"
+            ]
+          },
+          "legend": null
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "average",
+              "field": "Ladder Score",
+              "as": "global_avg_ladder_score"
+            }
+          ]
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "strokeWidth": { "expr": "1.5" },
+        "strokeDash": { "expr": "[2,2]" }
+      },
+      "encoding": {
+        "x": { "type": "quantitative", "field": "global_avg_ladder_score" },
+        "color": { "value": "black" },
+        "tooltip": [
+          {
+            "field": "global_avg_ladder_score",
+            "type": "nominal",
+            "title": "Global Average Happiness Score",
+            "format": ".3s"
+          }
+        ]
+      }
+    }
+  ]
+}
