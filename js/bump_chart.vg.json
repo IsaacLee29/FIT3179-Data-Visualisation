@@ -22,6 +22,11 @@
       "titleFont": "Roboto",
       "labelFontSize": 12,
       "titleFontSize": 14
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
     }
   },
   "params": [

@@ -18,6 +18,11 @@
       "titleFont": "Roboto",
       "labelFontSize": 12,
       "titleFontSize": 14
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
     }
   },
   "data": {
@@ -48,7 +53,18 @@
       "type": "nominal",
       "title": "Regions",
       "scale": {
-        "range": ["#F9C62B", "#5993B6", "#515966"]
+        "range": [
+          "#AB8FDA",
+          "#87C1F5",
+          "#ff6db6",
+          "#F89D81",
+          "#F9C62B",
+          "#db6d00",
+          "#5993B6",
+          "#9B9FA7",
+          "#515966",
+          "#A6816A"
+        ]
       }
     },
     "opacity": {
@@ -96,6 +112,7 @@
     {
       "mark": {
         "type": "text",
+        "fontWeight": "bold",
         "dx": 30,
         "size": 18
       },

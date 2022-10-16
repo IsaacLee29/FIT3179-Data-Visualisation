@@ -1,12 +1,8 @@
-/* Colour Palette: https://colorhunt.co/palette/d9d7f1fffddee7fbbeffcbcb */
-
-body {
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
     font-family: 'Roboto', sans-serif;
 }
-
-/* p {
-    font-size: 100;
-} */
 
 .vis-container {
     width: 100%;
@@ -14,17 +10,22 @@ body {
 }
 
 .main {
-    background-color: #FFFDDE;
+    background-color: #E0E0E0;
 }
 
 .main-title {
-    font-size: xx-large;
+    background-color: #FFFDDE;
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bold;
 }
 
 .page {
     width: 1280px;
     /* width: 1920px; */
-    background-color: #FFFDDE;
+    /* background-color: #FFFDDE; */
+    /* background-color: #F8F8F8; */
+    /* background-color: #E0E0E0; */
     margin: auto;
     padding: 50px;
     padding-top: 35px;
@@ -33,66 +34,47 @@ body {
 .description-right {
     margin-left: 20px;
     margin-right: 20px;
-    font-size: larger;
+    font-size: large;
 }
 
 .description-left {
     margin-right: 20px;
     margin-left: 20px;
-    font-size: larger;
+    font-size: large;
 }
 
 .description-centre {
     margin-right: 20px;
     margin-left: 20px;
-    font-size: larger;
+    font-size: large;
+}
+
+.description-tips {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: medium;
+    color: grey;
 }
 
 .title {
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 50px;
-    background-color: #FFCBCB;
+    margin-bottom: 30px;
+    font-size: larger;
 }
 
-#tip {
-    color: grey;
+.divider {
+    height: 50px;
 }
 
-/* #gdp {
-    color: #AB8FDA;
+.vis-card {
+    box-shadow: 0 1rem 2rem hsl(0 0% 0% / 20%);
+    border-radius: 2ch;
 }
 
-#social {
-    color: #87C1F5;
+.p1 {
+    background-color: white;
+    padding: 20px;
 }
-
-#health {
-    color: #80D5BE;
-}
-
-#freedom {
-    color: #F89D81;
-}
-
-#generosity {
-    color: #F9C62B;
-}
-#corruption {
-    color: #8CC540;
-}
-
-#dystopia {
-    color: #5993B6;
-}
-
-#north-america {
-    color: #8CC540;
-}
-
-#south-asia {
-    color: #5993B6;
-} */
 
 #c1 {
     color: #AB8FDA;
@@ -103,7 +85,7 @@ body {
 }
 
 #c3 {
-    color: #80D5BE;
+    color: #ff6db6;
 }
 
 #c4 {
@@ -115,7 +97,7 @@ body {
 }
 
 #c6 {
-    color: #8CC540;
+    color: #db6d00;
 }
 
 #c7 {
@@ -137,14 +119,3 @@ body {
 #c11 {
     color: red;
 }
-
-/* .container {
-    position: relative;
-    margin: auto;
-    overflow: hidden;
-    width: 520px;
-    height: 350px;
-    background: white;
-    box-shadow: 5px 5px 15px rgba(grey, .5);
-    border-radius: 10px;
-} */

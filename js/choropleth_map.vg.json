@@ -16,6 +16,11 @@
       "titleFont": "Roboto",
       "labelFontSize": 12,
       "titleFontSize": 14
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
     }
   },
   "params": [
@@ -74,14 +79,14 @@
         "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/oceans.topojson",
         "format": { "type": "topojson", "feature": "oceans" }
       },
-      "mark": { "type": "geoshape", "fill": "skyblue" }
+      "mark": { "type": "geoshape", "fill": "#D4F1F4" }
     },
     {
       "data": {
         "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/ne_110m.json",
         "format": { "type": "topojson", "feature": "ne_110m_graticules_30" }
       },
-      "mark": { "type": "geoshape", "fill": null, "stroke": "lightgray" }
+      "mark": { "type": "geoshape", "fill": null, "stroke": "gray" }
     },
     {
       "params": [

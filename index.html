@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
@@ -26,161 +27,226 @@
 
 <body class="main">
     <div class="page">
-        <div class="main-title" align="center">
-            <h1>The State of World Happiness (2021)</h1>
+        <!-- Main Title -->
+        <div class="main-title vis-card" align="center">
+            <h1>THE STATE OF WORLD HAPPINESS (2021)</h1>
         </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
         <!-- Choropleth Map -->
-        <div class="pure-g title">
-            <div class="pure-u-1-1">
-                <h2>World Happiness Scores</h2>
-            </div>
-        </div>
-        <div class="pure-g">
-            <div class="pure-g">
+        <div class="p1 vis-card">
+            <div class="pure-g title">
                 <div class="pure-u-1-1">
-                    <div class="description-centre">
-                        <p>The World Happiness Report is a survey conducted by the Sustainable Development Solutions
-                            Network
-                            to undertand the state of global happiness.
-                        </p>
-                        <p>The world map displayed below visualises the happiness scores, also known as ladder scores,
-                            of <b>149 countries</b></p>
-                        <p id="tip">Click on the filter below to view the happiness scores by region</p>
-                    </div>
+                    <h2>WORLDWIDE HAPPINESS</h2>
                 </div>
             </div>
-            <div class="pure-u-1-1">
-                <div id="choropleth-map" class="vis-container" align="center"></div>
+            <div class="pure-g">
+                <div class="pure-g">
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>The happiness scores are obtained from the World Happiness Report (2021), which is a
+                                survey conducted by the Sustainable Development Solutions
+                                Network
+                                to undertand the state of global happiness.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>The world map displayed below visualises the happiness scores, also known as ladder
+                                scores,
+                                of <b>149 countries</b>.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-1">
+                    <p class="description-tips">Click on the filter below to view the happiness scores by region</p>
+                    <div id="choropleth-map" class="vis-container" align="center"></div>
+                </div>
             </div>
         </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
 
         <!-- Box Plots -->
-        <div class="pure-g title">
-            <div class="pure-u-1-1">
-                <h2>Happiness By Region</h2>
-            </div>
-        </div>
-        <div class="pure-g">
-            <div class="pure-u-1-4">
-                <div class="description-left">
-                    <p>Generally, different regions in the world have varrying happiness scores.
-                    </p>
-                    <p>
-                        We observed
-                        that the
-                        <b id="c6">North American and NZ</b> region enjoys an average regional happiness
-                        score of <b>7.13</b> per country, the
-                        <b>highest</b> against other regions.
-                    </p>
-                    <p>
-                        On the contrary, <b id="c7">South Asia</b> recorded an average regional
-                        happiness score of <b>4.44</b>, making
-                        it the <b>lowest</b>.
-                    </p>
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>REGIONAL HAPPINESS</h2>
                 </div>
             </div>
-            <div class="pure-u-3-4">
-                <div id="boxplot" class="vis-container" align="center"></div>
+            <div class="pure-g">
+                <div class="pure-u-1-4">
+                    <div class="description-left">
+                        <p>Generally, different regions in the world have varrying happiness scores.
+                        </p>
+                        <p>
+                            We observe
+                            that countries in the
+                            <b id="c6">North American and NZ</b> region generally have happiness scores starting from <b
+                                id="c6">7</b> onwards.
+                        </p>
+                        <p>
+                            On the contrary, countries in the <b id="c9">Sub-Saharan Africa</b> region recorded
+                            happiness scores mostly ranging between <b id="c9">4 and 5</b>. This could
+                            perhaps be due to the under-development or lack of infrastructure within the region.
+                        </p>
+                    </div>
+                </div>
+                <div class="pure-u-3-4">
+                    <div id="boxplot" class="vis-container" align="center"></div>
+                </div>
             </div>
         </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
 
         <!-- Lollipop Chart -->
-        <div class="pure-g title">
-            <div class="pure-u-1-1">
-                <h2>Top 5 Happiest and Saddest Countries</h2>
-            </div>
-        </div>
-        <div class="pure-g">
-            <div class="pure-u-3-4">
-                <div id="lollipop-chart" class="vis-container" align="center"></div>
-            </div>
-            <div class="pure-u-1-4">
-                <div class="description-right">
-                    <p>The diagram to the left shows the top 5 happiest and saddest countries.</p>
-                    <p><b>Finland</b> tops the table with a happiness score of <b>7.8</b> while <b>Afghanistan</b> sits
-                        at the bottom with a score of <b>2.5</b>.</p>
-                    <p>Interestingly, all top 5 countries in this list are located in <b id="c9">Western Europe</b>
-                        while 4 of the bottom 5 countries are from the <b id="c7">Sub-Saharan African</b> region.</p>
-                    <p id="tip">Select any region listed on the legend to filter the countries by region.</p>
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>TOP 5 HAPPIEST AND SADDEST COUNTRIES</h2>
                 </div>
             </div>
-        </div>
-
-        <!-- Bump Chart -->
-        <div class="pure-g title">
-            <div class="pure-u-1-1">
-                <h2>Happiness Over The Years</h2>
-            </div>
-        </div>
-        <div class="pure-g">
             <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <div class="description-centre">
-                        <p>The rankings of each country based on their respective happiness scores continously changes
-                            over
-                            the
-                            years.
+                <div class="pure-u-3-4">
+                    <div id="lollipop-chart" class="vis-container" align="center"></div>
+                </div>
+                <div class="pure-u-1-4">
+                    <div class="description-right">
+                        <p>The diagram to the left shows the top 5 happiest and saddest countries.</p>
+                        <p><b>Finland</b> tops the table with a happiness score of <b>7.8</b> while <b>Afghanistan</b>
+                            sits
+                            at the bottom with a score of <b>2.5</b>.</p>
+                        <p>Interestingly, all top 5 countries in this list are located in <b id="c3">Western Europe</b>
+                            while 4 of the bottom 5 countries are from the <b id="c2">Sub-Saharan African</b> region.
                         </p>
-                        <p>From 2016 to 2020, <b>Finland</b> consistently dominated top spot, averaging a happiness
-                            score of
-                            at
-                            least
-                            <b>7.6</b>.
-                        </p>
-                        <br>
-                        <p id="tip">Toggle the slider at the bottom of the visualisation to compare between the top 5 to
-                            top 10
-                            ranked
-                            countries or select a country on the legend to highlight its progression in rankings.</p>
+                        <p class="description-tips" style="margin-left: 0px;">Select any region listed on the legend to
+                            filter the countries by region.</p>
                     </div>
                 </div>
             </div>
-            <div class="pure-u-1-1">
-                <div id="bump-chart" class="vis-container" align="center"></div>
-            </div>
         </div>
 
-        <!-- Stacked Bar Chart -->
-        <div class="pure-g title">
-            <div class="pure-u-1-1">
-                <h2>Factors Affecting Happiness</h2>
-            </div>
-        </div>
-        <div class="pure-g">
-            <div class="pure-u-1-4">
-                <div class="description-left">
-                    <p>To understand what makes a country happy, we need to look at the factors affecting happiness.</p>
-                    <p>With that, the happiness score of each country is calculated based on 6 key measures: <b
-                            id="c7">Dystopia & Residual</b>,
-                        <b id="c4">Freedom to Make Life Choices</b>, <b id="c5">Generosity</b>, <b id="c3">Health Life
-                            Expectancy</b>, <b id="c1">Log GDP per Capita</b>,
-                        <b id="c6">Perceptions of Corruption</b> and <b id="c2">Social Support</b>.
-                    </p>
-                    <p id="tip">Toggle the selection menu below to zoom into the individual factors</p>
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Bump Chart -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>HAPPINESS OVER THE YEARS</h2>
                 </div>
             </div>
-            <div class="pure-u-3-4">
-                <div id="stacked-bar-chart" class="vis-container" align="center"></div>
+            <div class="pure-g">
+                <div class="pure-g">
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>The rankings of each country based on their respective happiness scores continuously
+                                changes
+                                over
+                                the
+                                years.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>From 2016 to 2020, <b>Finland</b> consistently dominated top spot, averaging a happiness
+                                score of
+                                at
+                                least
+                                <b>7.6</b>.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-1">
+                    <div class="pure-g">
+                        <div class="pure-u-1-2">
+                            <p class="description-tips">Toggle the slider at the bottom of the visualisation to compare
+                                between the top
+                                5 to
+                                top 10
+                                ranked
+                                countries.
+                            </p>
+                        </div>
+                        <div class="pure-u-1-2">
+                            <p class="description-tips">
+                                Select a country on the legend to highlight its progression in rankings.
+                            </p>
+                        </div>
+                    </div>
+                    <div id="bump-chart" class="vis-container" align="center"></div>
+                </div>
             </div>
         </div>
 
-        <!-- Scatter Plot -->
-        <div class="pure-g title">
-            <div class="pure-u-1-1">
-                <h2>Happiness Key To A Longer Life</h2>
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Stacked Bar Chart -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>FACTORS AFFECTING HAPPINESS</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-4">
+                    <div class="description-left">
+                        <p>To understand what makes a country happy, we need to look at the factors affecting happiness.
+                        </p>
+                        <p>With that, the happiness score of each country is calculated based on 6 key measures:
+                            <b id="c1">Log GDP per Capita</b>,
+                            <b id="c2">Social Support</b>,
+                            <b id="c3">Health Life Expectancy</b>,
+                            <b id="c4">Freedom to Make Life Choices</b>,
+                            <b id="c5">Generosity</b>,
+                            <b id="c6">Perceptions of Corruption</b> and
+                            <b id="c7">Dystopia & Residual</b>.
+                        </p>
+                        <p class="description-tips" style="margin-left: 0px;">Toggle the selection menu below to zoom
+                            into the individual factors</p>
+                    </div>
+                </div>
+                <div class="pure-u-3-4">
+                    <div id="stacked-bar-chart" class="vis-container" align="center"></div>
+                </div>
             </div>
         </div>
-        <div class="pure-g">
-            <div class="pure-u-3-4">
-                <div id="scatterplot" class="vis-container" align="center"></div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Scatter Plot -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>HAPPINESS KEY TO A LONGER LIFE</h2>
+                </div>
             </div>
-            <div class="pure-u-1-4">
-                <div class="description-right">
-                    <p>Based on the observation of data collected in 2021, there seems to suggest a <b id="c11">positive
-                            association</b> between happiness and life expectancy </p>
-                    <p id="tip">
-                        Select a region on the legend to highlight only the countries within it.
-                    </p>
+            <div class="pure-g">
+                <div class="pure-u-3-4">
+                    <div id="scatterplot" class="vis-container" align="center"></div>
+                </div>
+                <div class="pure-u-1-4">
+                    <div class="description-right">
+                        <p>Have you ever heard people saying that "the happier you are, the longer you will live"? Let
+                            us put this statement to the test.</p>
+                        <p>Based on the observation of world happinesss data collected in 2021, there seems to suggest a
+                            <b id="c11">positive
+                                association</b> between happiness and life expectancy </p>
+                        <p class="description-tips" style="margin-left: 0px;">
+                            Select a region on the legend to highlight only the countries within it.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
