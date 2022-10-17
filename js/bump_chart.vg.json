@@ -81,7 +81,28 @@
       "field": "Country name",
       "type": "nominal",
       "scale": {
-        "scheme": "rainbow"
+        "domain": [
+          "Australia",
+          "Austria",
+          "Canada",
+          "Costa Rica",
+          "Denmark",
+          "Finland",
+          "Germany",
+          "Iceland",
+          "Ireland",
+          "Israel",
+          "Luxembourg",
+          "Mexico",
+          "Netherlands",
+          "New Zealand",
+          "Norway",
+          "Panama",
+          "Sweden",
+          "Switzerland",
+          "United Kingdom"
+        ],
+        "scheme": "tableau20"
       },
       "title": "Countries"
     },
