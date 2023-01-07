@@ -1,0 +1,71 @@
+Country name,Regional indicator,Ladder score,Factors,Factor_score
+Finland,Western Europe,7.842,Log GDP Per Capita,1.446
+Denmark,Western Europe,7.62,Log GDP Per Capita,1.502
+Switzerland,Western Europe,7.571,Log GDP Per Capita,1.566
+Iceland,Western Europe,7.554,Log GDP Per Capita,1.482
+Netherlands,Western Europe,7.464,Log GDP Per Capita,1.501
+Norway,Western Europe,7.392,Log GDP Per Capita,1.543
+Sweden,Western Europe,7.363,Log GDP Per Capita,1.478
+Luxembourg,Western Europe,7.324,Log GDP Per Capita,1.751
+New Zealand,North America and ANZ,7.277,Log GDP Per Capita,1.4
+Austria,Western Europe,7.268,Log GDP Per Capita,1.492
+Finland,Western Europe,7.842,Social Support,1.106
+Denmark,Western Europe,7.62,Social Support,1.108
+Switzerland,Western Europe,7.571,Social Support,1.079
+Iceland,Western Europe,7.554,Social Support,1.172
+Netherlands,Western Europe,7.464,Social Support,1.079
+Norway,Western Europe,7.392,Social Support,1.108
+Sweden,Western Europe,7.363,Social Support,1.062
+Luxembourg,Western Europe,7.324,Social Support,1.003
+New Zealand,North America and ANZ,7.277,Social Support,1.094
+Austria,Western Europe,7.268,Social Support,1.062
+Finland,Western Europe,7.842,Healthy Life Expectancy,0.741
+Denmark,Western Europe,7.62,Healthy Life Expectancy,0.763
+Switzerland,Western Europe,7.571,Healthy Life Expectancy,0.816
+Iceland,Western Europe,7.554,Healthy Life Expectancy,0.772
+Netherlands,Western Europe,7.464,Healthy Life Expectancy,0.753
+Norway,Western Europe,7.392,Healthy Life Expectancy,0.782
+Sweden,Western Europe,7.363,Healthy Life Expectancy,0.763
+Luxembourg,Western Europe,7.324,Healthy Life Expectancy,0.76
+New Zealand,North America and ANZ,7.277,Healthy Life Expectancy,0.785
+Austria,Western Europe,7.268,Healthy Life Expectancy,0.782
+Finland,Western Europe,7.842,Freedom To Make Life Choices,0.691
+Denmark,Western Europe,7.62,Freedom To Make Life Choices,0.686
+Switzerland,Western Europe,7.571,Freedom To Make Life Choices,0.653
+Iceland,Western Europe,7.554,Freedom To Make Life Choices,0.698
+Netherlands,Western Europe,7.464,Freedom To Make Life Choices,0.647
+Norway,Western Europe,7.392,Freedom To Make Life Choices,0.703
+Sweden,Western Europe,7.363,Freedom To Make Life Choices,0.685
+Luxembourg,Western Europe,7.324,Freedom To Make Life Choices,0.639
+New Zealand,North America and ANZ,7.277,Freedom To Make Life Choices,0.665
+Austria,Western Europe,7.268,Freedom To Make Life Choices,0.64
+Finland,Western Europe,7.842,Generosity,0.124
+Denmark,Western Europe,7.62,Generosity,0.208
+Switzerland,Western Europe,7.571,Generosity,0.204
+Iceland,Western Europe,7.554,Generosity,0.293
+Netherlands,Western Europe,7.464,Generosity,0.302
+Norway,Western Europe,7.392,Generosity,0.249
+Sweden,Western Europe,7.363,Generosity,0.244
+Luxembourg,Western Europe,7.324,Generosity,0.166
+New Zealand,North America and ANZ,7.277,Generosity,0.276
+Austria,Western Europe,7.268,Generosity,0.215
+Finland,Western Europe,7.842,Perceptions Of Corruption,0.481
+Denmark,Western Europe,7.62,Perceptions Of Corruption,0.485
+Switzerland,Western Europe,7.571,Perceptions Of Corruption,0.413
+Iceland,Western Europe,7.554,Perceptions Of Corruption,0.17
+Netherlands,Western Europe,7.464,Perceptions Of Corruption,0.384
+Norway,Western Europe,7.392,Perceptions Of Corruption,0.427
+Sweden,Western Europe,7.363,Perceptions Of Corruption,0.448
+Luxembourg,Western Europe,7.324,Perceptions Of Corruption,0.353
+New Zealand,North America and ANZ,7.277,Perceptions Of Corruption,0.445
+Austria,Western Europe,7.268,Perceptions Of Corruption,0.292
+Finland,Western Europe,7.842,Dystopia & Residual,3.253
+Denmark,Western Europe,7.62,Dystopia & Residual,2.868
+Switzerland,Western Europe,7.571,Dystopia & Residual,2.839
+Iceland,Western Europe,7.554,Dystopia & Residual,2.967
+Netherlands,Western Europe,7.464,Dystopia & Residual,2.798
+Norway,Western Europe,7.392,Dystopia & Residual,2.58
+Sweden,Western Europe,7.363,Dystopia & Residual,2.683
+Luxembourg,Western Europe,7.324,Dystopia & Residual,2.653
+New Zealand,North America and ANZ,7.277,Dystopia & Residual,2.612
+Austria,Western Europe,7.268,Dystopia & Residual,2.784

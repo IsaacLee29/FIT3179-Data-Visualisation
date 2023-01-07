@@ -1,0 +1,133 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 500,
+  "config": {
+    "font": "Roboto",
+    "title": {
+      "fontSize": 24
+    },
+    "axis": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "legend": {
+      "labelFont": "Roboto",
+      "titleFont": "Roboto",
+      "labelFontSize": 12,
+      "titleFontSize": 14
+    },
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/IsaacLee29/FIT3179-Data-Visualisation-2/main/data/world-happiness-report-2021-top-bottom.csv",
+    "format": { "type": "csv" }
+  },
+  "encoding": {
+    "x": {
+      "aggregate": "sum",
+      "field": "Ladder Score",
+      "type": "quantitative",
+      "title": "Happiness Score",
+      "axis": {
+        "tickCount": 9
+      },
+      "scale": {
+        "domainMax": 9
+      }
+    },
+    "y": {
+      "field": "Country Name",
+      "type": "nominal",
+      "title": "Country",
+      "sort": "-x"
+    },
+    "color": {
+      "field": "Regional Indicator",
+      "type": "nominal",
+      "title": "Regions",
+      "scale": {
+        "range": [
+          "#AB8FDA",
+          "#87C1F5",
+          "#ff6db6",
+          "#F89D81",
+          "#F9C62B",
+          "#db6d00",
+          "#5993B6",
+          "#9B9FA7",
+          "#515966",
+          "#A6816A"
+        ]
+      }
+    },
+    "opacity": {
+      "condition": {
+        "param": "regional_highlight",
+        "value": 1
+      },
+      "value": 0.3
+    },
+    "tooltip": [
+      {
+        "field": "Country Name",
+        "type": "nominal",
+        "title": "Country"
+      },
+      {
+        "field": "Regional Indicator",
+        "type": "nominal",
+        "title": "Country Region"
+      },
+      {
+        "field": "Ladder Score",
+        "type": "quantitative",
+        "title": "Happiness Score"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "regional_highlight",
+          "select": {
+            "type": "point",
+            "fields": ["Regional Indicator"]
+          },
+          "bind": "legend"
+        }
+      ],
+      "mark": {
+        "type": "bar",
+        "height": 4
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontWeight": "bold",
+        "dx": 30,
+        "size": 18
+      },
+      "encoding": {
+        "text": {
+          "field": "Ladder Score",
+          "format": ".2"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 300
+      }
+    }
+  ]
+}

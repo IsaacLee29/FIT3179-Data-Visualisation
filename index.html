@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <!-- Import Pure CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css"
+        integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+    <!-- Import Roboto Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <!-- Javascript file -->
+    <script src="js/vega_lite_vis.js"></script>
+</head>
+
+<body class="main">
+    <div class="page">
+        <!-- Main Title -->
+        <div class="main-title vis-card" align="center">
+            <h1>&#128515; THE STATE OF WORLD HAPPINESS (2021) &#128515;</h1>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Choropleth Map -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>WORLDWIDE HAPPINESS</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-g">
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>The happiness scores are obtained from the World Happiness Report (2021), which is a
+                                survey conducted by the Sustainable Development Solutions
+                                Network
+                                to understand the state of global happiness.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>The world map displayed below visualises the happiness scores, also known as ladder
+                                scores,
+                                of <b>149 countries</b>.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-1">
+                    <p class="description-tips">&#128161; Click on the <b>Regional Selection</b> dropdown menu below to
+                        view the happiness scores by <b>region</b>.</p>
+                    <div id="choropleth-map" class="vis-container" align="center"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Box Plots -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>REGIONAL HAPPINESS</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-4">
+                    <div class="description-left">
+                        <p>Generally, different regions in the world have varrying happiness scores.
+                        </p>
+                        <p>
+                            We observe
+                            that countries in the
+                            <b id="c6">North American and NZ</b> region generally have happiness scores starting from <b
+                                id="c6">7</b> onwards.
+                        </p>
+                        <p>
+                            On the contrary, countries in the <b id="c9">Sub-Saharan Africa</b> region recorded
+                            happiness scores mostly ranging between <b id="c9">4 and 5</b>. This could
+                            perhaps be due to the under-development or lack of infrastructure within the region.
+                        </p>
+                    </div>
+                </div>
+                <div class="pure-u-3-4">
+                    <div id="boxplot" class="vis-container" align="center"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Lollipop Chart -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>TOP 5 HAPPIEST AND SADDEST COUNTRIES</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-3-4">
+                    <div id="lollipop-chart" class="vis-container" align="center"></div>
+                </div>
+                <div class="pure-u-1-4">
+                    <div class="description-right">
+                        <p>The diagram to the left shows the top 5 happiest and saddest countries.</p>
+                        <p><b>Finland</b> tops the table with a happiness score of <b>7.8</b> while <b>Afghanistan</b>
+                            sits
+                            at the bottom with a score of <b>2.5</b>.</p>
+                        <p>Interestingly, all top 5 countries in this list are located in <b id="c3">Western Europe</b>
+                            while 4 of the bottom 5 countries are from the <b id="c2">Sub-Saharan African</b> region.
+                        </p>
+                        <p class="description-tips" style="margin-left: 0px;">&#128161; Select a region listed on the
+                            <b>Regions legend</b> to
+                            filter the countries by <b>region</b>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Bump Chart -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>HAPPINESS OVER THE YEARS</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-g">
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>The rankings of each country based on their respective happiness scores continuously
+                                changes
+                                over
+                                the
+                                years.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="pure-u-1-2">
+                        <div class="description-centre">
+                            <p>From 2016 to 2020, <b id="finland-bump-chart">Finland</b> consistently dominated top
+                                spot, averaging a happiness
+                                score of
+                                at
+                                least
+                                <b id="finland-bump-chart">7.6</b>.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="pure-u-1-1">
+                    <div class="pure-g">
+                        <div class="pure-u-1-2">
+                            <p class="description-tips">&#128161; Toggle the <b>Top N Countries</b> slider at the bottom
+                                of the visualisation to compare
+                                between the <b>top
+                                    5 to 10</b>
+                                ranked
+                                countries.
+                            </p>
+                        </div>
+                        <div class="pure-u-1-2">
+                            <p class="description-tips">
+                                &#128161; Select a country on the <b>Countries legend</b> to highlight its progression
+                                in <b>rankings</b>.
+                            </p>
+                        </div>
+                    </div>
+                    <div id="bump-chart" class="vis-container" align="center"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Stacked Bar Chart -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>FACTORS AFFECTING HAPPINESS</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-4">
+                    <div class="description-left">
+                        <p>To understand what makes a country happy, we need to look at the factors affecting happiness.
+                        </p>
+                        <p>With that, the happiness score of each country is calculated based on 6 key measures:
+                            <b id="c1">Log GDP per Capita</b>,
+                            <b id="c2">Social Support</b>,
+                            <b id="c3">Health Life Expectancy</b>,
+                            <b id="c4">Freedom to Make Life Choices</b>,
+                            <b id="c5">Generosity</b>,
+                            <b id="c6">Perceptions of Corruption</b> and
+                            <b id="c7">Dystopia & Residual</b>.
+                        </p>
+                        <p class="description-tips" style="margin-left: 0px;">&#128161; Toggle the <b>Factors selection
+                                menu</b> below to zoom
+                            into the individual <b>factors</b>.</p>
+                    </div>
+                </div>
+                <div class="pure-u-3-4">
+                    <div id="stacked-bar-chart" class="vis-container" align="center"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Scatter Plot -->
+        <div class="p1 vis-card">
+            <div class="pure-g title">
+                <div class="pure-u-1-1">
+                    <h2>HAPPINESS KEY TO A LONGER LIFE</h2>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-3-4">
+                    <div id="scatterplot" class="vis-container" align="center"></div>
+                </div>
+                <div class="pure-u-1-4">
+                    <div class="description-right">
+                        <p>Have you ever heard people saying that "the happier you are, the longer you will live"? Let
+                            us put this statement to the test.</p>
+                        <p>Based on the observation of world happinesss data collected in 2021, there seems to suggest a
+                            <b id="c11">positive
+                                association</b> between happiness and life expectancy.
+                        </p>
+                        <p class="description-tips" style="margin-left: 0px;">
+                            &#128161; Select a region on the <b>Regions legend</b> to highlight only the <b>countries
+                                within it</b>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="divider"></div>
+
+        <!-- Author Statement -->
+        <hr>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div align="center">
+                    <p>The visualisation <b>The State Of World Happiness (2021)</b> is made by Isaac Lee Kian Min.
+                        &copy; 2022</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
